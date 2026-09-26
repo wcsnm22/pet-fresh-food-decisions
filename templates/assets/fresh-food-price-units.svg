@@ -1,0 +1,90 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 960 660" width="960" height="660" role="img" aria-label="Infographic of the price each of the three fresh dog food brands publishes on 2026-09-27: Ollie from 1.57 dollars a meal for Full Fresh Meals and 1.00 dollar a meal for the Half Fresh Plan, The Farmer's Dog at about 2 dollars a day, and JustFoodForDogs shelf prices of 153.99, 167.99 and 181.99 dollars for a 14-pack - three different units that cannot be compared directly">
+  <g font-family="Segoe UI, Arial, sans-serif">
+
+    <text x="8" y="26" font-size="19" font-weight="700" fill="#0f172a">Best fresh dog food subscriptions 2026: three brands, three different rulers</text>
+    <text x="8" y="50" font-size="13.5" fill="#475569">Every figure is printed on the brand's own site and was read on 2026-09-27 (UTC+8). Bars scale only inside their own panel - the units differ, so the panels do not line up.</text>
+
+    <!-- ============ Panel 1: Ollie ============ -->
+    <rect x="8" y="70" width="304" height="376" rx="16" fill="#f8fafc" stroke="#64748b" stroke-width="2"/>
+    <text x="26" y="100" font-size="15" font-weight="700" fill="#0f172a">Ollie</text>
+    <text x="26" y="120" font-size="12.5" font-weight="700" fill="#1d4ed8">PRICE UNIT: PER MEAL (starting prices)</text>
+
+    <text x="26" y="152" font-size="13" fill="#334155">Full Fresh Meals</text>
+    <rect x="26" y="160" width="214" height="26" rx="7" fill="#60a5fa"/>
+    <text x="248" y="179" font-size="14" font-weight="700" fill="#0f172a">$1.57 / meal</text>
+
+    <text x="26" y="216" font-size="13" fill="#334155">Half Fresh Plan</text>
+    <rect x="26" y="224" width="136" height="26" rx="7" fill="#93c5fd"/>
+    <text x="170" y="243" font-size="14" font-weight="700" fill="#0f172a">$1.00 / meal</text>
+
+    <line x1="26" y1="270" x2="294" y2="270" stroke="#cbd5e1" stroke-width="1"/>
+    <text x="26" y="294" font-size="12.5" fill="#475569">Per-day figures live only in its FAQ:</text>
+    <text x="26" y="314" font-size="13.5" fill="#0f172a">under $4/day for small dogs fed Ollie</text>
+    <text x="26" y="332" font-size="13.5" fill="#0f172a">exclusively, and $8/day on average.</text>
+    <text x="26" y="356" font-size="12.5" fill="#475569">Free delivery is in the Meal Plans page</text>
+    <text x="26" y="374" font-size="12.5" fill="#475569">title; cancel by phone or on the website.</text>
+
+    <rect x="26" y="392" width="268" height="40" rx="8" fill="#fef3c7" stroke="#f59e0b"/>
+    <text x="36" y="409" font-size="12" font-weight="700" fill="#92400e">First box banner, same evening:</text>
+    <text x="36" y="425" font-size="12" fill="#92400e">50% off at 03:43, 70% off minutes later</text>
+
+    <!-- ============ Panel 2: The Farmer's Dog ============ -->
+    <rect x="328" y="70" width="304" height="376" rx="16" fill="#f8fafc" stroke="#64748b" stroke-width="2"/>
+    <text x="346" y="100" font-size="15" font-weight="700" fill="#0f172a">The Farmer's Dog</text>
+    <text x="346" y="120" font-size="12.5" font-weight="700" fill="#1d4ed8">PRICE UNIT: PER DAY (one starting price)</text>
+
+    <text x="346" y="152" font-size="13" fill="#334155">Plans start at about</text>
+    <rect x="346" y="160" width="176" height="26" rx="7" fill="#34d399"/>
+    <text x="530" y="179" font-size="14" font-weight="700" fill="#0f172a">about $2/day</text>
+
+    <text x="346" y="216" font-size="13" fill="#334155">Price shown after questionnaire</text>
+    <rect x="346" y="224" width="240" height="26" rx="7" fill="#d1fae5" stroke="#94a3b8" stroke-dasharray="5 4"/>
+    <text x="356" y="243" font-size="12.5" fill="#475569">age, weight, activity, recipe choice</text>
+
+    <line x1="346" y1="270" x2="614" y2="270" stroke="#cbd5e1" stroke-width="1"/>
+    <text x="346" y="294" font-size="12.5" fill="#475569">No per-meal figure is printed anywhere,</text>
+    <text x="346" y="312" font-size="12.5" fill="#475569">so there is no Ollie-style meal price to</text>
+    <text x="346" y="330" font-size="12.5" fill="#475569">line up against this one.</text>
+    <text x="346" y="356" font-size="12.5" fill="#475569">Delivery options mostly 1 week to 2 months</text>
+    <text x="346" y="374" font-size="12.5" fill="#475569">of food, free shipping, 48 states.</text>
+
+    <rect x="346" y="392" width="268" height="40" rx="8" fill="#fef3c7" stroke="#f59e0b"/>
+    <text x="356" y="409" font-size="12" font-weight="700" fill="#92400e">Homepage offer strip, 2026-09-27:</text>
+    <text x="356" y="425" font-size="12" fill="#92400e">Get started - 50% off, cancel anytime</text>
+
+    <!-- ============ Panel 3: JustFoodForDogs ============ -->
+    <rect x="648" y="70" width="304" height="376" rx="16" fill="#f8fafc" stroke="#64748b" stroke-width="2"/>
+    <text x="666" y="100" font-size="15" font-weight="700" fill="#0f172a">JustFoodForDogs</text>
+    <text x="666" y="120" font-size="12.5" font-weight="700" fill="#1d4ed8">PRICE UNIT: PER 14-PACK BOX (shelf price)</text>
+
+    <text x="666" y="152" font-size="13" fill="#334155">Chicken &amp; Rice, 18 oz x 14</text>
+    <rect x="666" y="160" width="168" height="26" rx="7" fill="#fbbf24"/>
+    <text x="842" y="179" font-size="14" font-weight="700" fill="#0f172a">$153.99</text>
+
+    <text x="666" y="216" font-size="13" fill="#334155">Turkey &amp; Whole Wheat Macaroni</text>
+    <rect x="666" y="224" width="183" height="26" rx="7" fill="#f59e0b"/>
+    <text x="857" y="243" font-size="14" font-weight="700" fill="#0f172a">$167.99</text>
+
+    <text x="666" y="280" font-size="13" fill="#334155">Beef &amp; Russet Potato</text>
+    <rect x="666" y="288" width="199" height="26" rx="7" fill="#d97706"/>
+    <text x="873" y="307" font-size="14" font-weight="700" fill="#0f172a">$181.99</text>
+
+    <line x1="666" y1="332" x2="934" y2="332" stroke="#cbd5e1" stroke-width="1"/>
+    <text x="666" y="356" font-size="12.5" fill="#475569">21-pack sizes: $230.99 / $251.99 / $272.99.</text>
+    <text x="666" y="374" font-size="12.5" fill="#475569">Free shipping over $49, else flat $19.99.</text>
+
+    <rect x="666" y="392" width="268" height="40" rx="8" fill="#fef3c7" stroke="#f59e0b"/>
+    <text x="676" y="409" font-size="12" font-weight="700" fill="#92400e">Written promo terms, 2026-09-27:</text>
+    <text x="676" y="425" font-size="12" fill="#92400e">50% off first order (max $139), then 5% off</text>
+
+    <!-- ============ Bottom warning ============ -->
+    <rect x="8" y="462" width="944" height="128" rx="16" fill="#0f172a"/>
+    <text x="30" y="494" font-size="16" font-weight="700" fill="#f8fafc">Do not subtract these numbers from each other</text>
+    <text x="30" y="520" font-size="13.5" fill="#e2e8f0">Ollie sells by the meal, The Farmer's Dog sells by the day, JustFoodForDogs sells by the box - and no brand publishes a conversion between its unit and anyone else's.</text>
+    <text x="30" y="544" font-size="13.5" fill="#e2e8f0">Two of the three price you inside a builder or questionnaire, so every figure here is a floor or a shelf price, never your bill.</text>
+    <text x="30" y="572" font-size="12.5" fill="#94a3b8">Sources: ollie.com/meal-plans and ollie.com/faqs, thefarmersdog.com/faq and thefarmersdog.com, justfoodfordogs.com product pages, /pages/faq and /pages/offers-coupons-promotion-details - all read 2026-09-27 (UTC+8).</text>
+
+    <text x="8" y="620" font-size="12" fill="#64748b">Pet Fresh Food Decisions - every figure above is quoted from the brand's own official page with its source and check date. Promotions change without notice.</text>
+    <text x="8" y="642" font-size="12" fill="#64748b">No third-party price, estimate or conversion is used anywhere in this graphic.</text>
+  </g>
+</svg>
