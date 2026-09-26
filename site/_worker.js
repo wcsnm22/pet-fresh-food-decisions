@@ -1,7 +1,7 @@
 // ILANG
 // TYPE:worker ROLE:canonical-host-and-real-404
 const CANONICAL_HOST = "pet-fresh-food-decisions.pages.dev";
-const VALID_PATHS = new Set(["/", "/about", "/assets/favicon.svg", "/assets/fresh-food-price-units.svg", "/assets/ollie-cost-per-day.svg", "/assets/ollie-vs-tfd-price-units.svg", "/assets/style.css", "/best-fresh-dog-food-subscriptions", "/contact", "/justfoodfordogs-fresh-food", "/ollie-cost-per-day", "/ollie-fresh-dog-food", "/ollie-vs-the-farmers-dog", "/privacy", "/robots.txt", "/sitemap.xml", "/the-farmers-dog"]);
+const VALID_PATHS = new Set(["/", "/about", "/assets/favicon.svg", "/assets/fresh-food-price-units.svg", "/assets/justfoodfordogs-14-pack-prices.svg", "/assets/ollie-cost-per-day.svg", "/assets/ollie-vs-tfd-price-units.svg", "/assets/style.css", "/best-fresh-dog-food-subscriptions", "/contact", "/justfoodfordogs-fresh-food", "/justfoodfordogs-review", "/ollie-cost-per-day", "/ollie-fresh-dog-food", "/ollie-vs-the-farmers-dog", "/privacy", "/robots.txt", "/sitemap.xml", "/the-farmers-dog"]);
 
 export default {
   async fetch(request, env) {

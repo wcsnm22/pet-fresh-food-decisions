@@ -1,0 +1,62 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 960 646" width="960" height="646" role="img" aria-label="Bar chart of JustFoodForDogs published prices read on 2026-09-27: 14-pack of 18-oz packs costs 153.99 dollars for Chicken and Rice with a 50 percent subscription price of 77.00 dollars, 167.99 dollars for Turkey and Whole Wheat Macaroni with 84.00 dollars, and 181.99 dollars for Beef and Russet Potato with 91.00 dollars; the official terms cap the first-order discount at 139 dollars">
+  <g font-family="Segoe UI, Arial, sans-serif">
+
+    <text x="8" y="26" font-size="19" font-weight="700" fill="#0f172a">JustFoodForDogs: the prices it publishes, recipe by recipe</text>
+    <text x="8" y="50" font-size="13.5" fill="#475569">14-pack of 18-oz packs, regular price vs the subscription price shown on each product page, all read 2026-09-27 (UTC+8).</text>
+
+    <rect x="8" y="66" width="944" height="470" rx="16" fill="#f8fafc" stroke="#64748b" stroke-width="2"/>
+
+    <!-- legend -->
+    <rect x="600" y="84" width="18" height="14" rx="4" fill="#d97706"/>
+    <text x="626" y="96" font-size="12.5" fill="#334155">regular price (14-pack)</text>
+    <rect x="790" y="84" width="18" height="14" rx="4" fill="#fbbf24"/>
+    <text x="816" y="96" font-size="12.5" fill="#334155">subscription price</text>
+
+    <!-- group 1: Chicken & Rice -->
+    <text x="30" y="132" font-size="14" font-weight="700" fill="#0f172a">Chicken &amp; Rice</text>
+    <text x="30" y="150" font-size="12" fill="#64748b">18 oz (14 Pack)</text>
+    <rect x="300" y="118" width="454" height="26" rx="7" fill="#d97706"/>
+    <text x="764" y="137" font-size="14" font-weight="700" fill="#0f172a">$153.99</text>
+    <rect x="300" y="152" width="227" height="26" rx="7" fill="#fbbf24"/>
+    <text x="535" y="171" font-size="14" font-weight="700" fill="#0f172a">$77.00</text>
+    <text x="616" y="171" font-size="12" fill="#92400e">50% off badge on the subscription option</text>
+
+    <!-- group 2: Turkey & Whole Wheat Macaroni -->
+    <text x="30" y="242" font-size="14" font-weight="700" fill="#0f172a">Turkey &amp; Whole Wheat Macaroni</text>
+    <text x="30" y="260" font-size="12" fill="#64748b">18 oz (14 Pack)</text>
+    <rect x="300" y="228" width="496" height="26" rx="7" fill="#d97706"/>
+    <text x="806" y="247" font-size="14" font-weight="700" fill="#0f172a">$167.99</text>
+    <rect x="300" y="262" width="248" height="26" rx="7" fill="#fbbf24"/>
+    <text x="556" y="281" font-size="14" font-weight="700" fill="#0f172a">$84.00</text>
+
+    <!-- group 3: Beef & Russet Potato -->
+    <text x="30" y="352" font-size="14" font-weight="700" fill="#0f172a">Beef &amp; Russet Potato</text>
+    <text x="30" y="370" font-size="12" fill="#64748b">18 oz (14 Pack) - page warns it is not for growing puppies</text>
+    <rect x="300" y="338" width="537" height="26" rx="7" fill="#d97706"/>
+    <text x="847" y="357" font-size="14" font-weight="700" fill="#0f172a">$181.99</text>
+    <rect x="300" y="372" width="268" height="26" rx="7" fill="#fbbf24"/>
+    <text x="576" y="391" font-size="14" font-weight="700" fill="#0f172a">$91.00</text>
+
+    <!-- axis note -->
+    <line x1="300" y1="418" x2="900" y2="418" stroke="#cbd5e1" stroke-width="1"/>
+    <g font-size="12" fill="#64748b">
+      <text x="300" y="436">$0</text>
+      <text x="574" y="436">$95</text>
+      <text x="862" y="436">$190</text>
+    </g>
+    <text x="30" y="436" font-size="12.5" fill="#475569">Larger boxes on the same pages:</text>
+    <text x="30" y="456" font-size="12.5" fill="#334155">21-pack $230.99 / $251.99 / $272.99</text>
+    <text x="30" y="476" font-size="12.5" fill="#334155">28-pack $307.99 / $335.99 / $363.99</text>
+    <text x="30" y="496" font-size="12.5" fill="#334155">8 x 72 oz $287.99 / $311.99 / $335.99</text>
+
+    <text x="300" y="456" font-size="12.5" fill="#475569">Promotion terms, same day: 50% off the first subscription order, capped at a $139 maximum discount,</text>
+    <text x="300" y="476" font-size="12.5" fill="#475569">plus free shipping, then 5% off all subsequent subscription orders - one per household.</text>
+    <text x="300" y="496" font-size="12.5" fill="#475569">Shipping: free over $49 after discounts and before tax, otherwise a flat $19.99.</text>
+    <text x="300" y="522" font-size="12" fill="#64748b">Sources: the three recipe product pages, /pages/faq and /pages/offers-coupons-promotion-details, read 2026-09-27.</text>
+
+    <!-- footer -->
+    <rect x="8" y="552" width="944" height="72" rx="14" fill="#0f172a"/>
+    <text x="30" y="582" font-size="15" font-weight="700" fill="#f8fafc">These are shelf prices, not quotes</text>
+    <text x="30" y="606" font-size="13" fill="#e2e8f0">JustFoodForDogs publishes no per-day figure, so this chart does not invent one - multiply only by pack counts it prints, and treat the promo as changeable until checkout.</text>
+  </g>
+</svg>
