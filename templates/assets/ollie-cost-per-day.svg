@@ -1,0 +1,68 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 960 632" width="960" height="632" role="img" aria-label="Chart of the cost-per-day figures Ollie publishes in its own FAQ on 2026-09-26: food starts at less than 4 dollars a day for small dogs fed Ollie exclusively, and averages 8 dollars a day; below the bars, the per-meal starting prices printed on Ollie's Meal Plans page, 1.57 dollars for Full Fresh Meals and 1.00 dollar for the Half Fresh Plan, which are a different unit">
+  <g font-family="Segoe UI, Arial, sans-serif">
+
+    <text x="8" y="26" font-size="19" font-weight="700" fill="#0f172a">How much does Ollie cost per day? The two numbers Ollie prints itself</text>
+    <text x="8" y="50" font-size="13.5" fill="#475569">Both figures come from the answer to "How much does Ollie cost?" on ollie.com/faqs, read 2026-09-26 (UTC+8).</text>
+
+    <!-- bar chart panel: full width -->
+    <rect x="8" y="70" width="944" height="232" rx="16" fill="#f8fafc" stroke="#64748b" stroke-width="2"/>
+    <text x="30" y="100" font-size="15" font-weight="700" fill="#0f172a">Cost per DAY, as Ollie states it</text>
+
+    <!-- gridlines: $0=300, $2=430, $4=560, $6=690, $8=820 -->
+    <g stroke="#cbd5e1" stroke-width="1">
+      <line x1="300" y1="116" x2="300" y2="256"/>
+      <line x1="430" y1="116" x2="430" y2="256"/>
+      <line x1="560" y1="116" x2="560" y2="256"/>
+      <line x1="690" y1="116" x2="690" y2="256"/>
+      <line x1="820" y1="116" x2="820" y2="256"/>
+    </g>
+    <g font-size="12" fill="#64748b">
+      <text x="291" y="274">$0</text>
+      <text x="421" y="274">$2</text>
+      <text x="551" y="274">$4</text>
+      <text x="681" y="274">$6</text>
+      <text x="811" y="274">$8</text>
+    </g>
+
+    <!-- bar 1: starts under $4 -->
+    <text x="30" y="152" font-size="14" fill="#334155">Starts under $4 a day</text>
+    <text x="30" y="170" font-size="12" fill="#64748b">small dogs fed Ollie exclusively</text>
+    <rect x="300" y="132" width="260" height="32" rx="8" fill="#60a5fa"/>
+    <text x="572" y="154" font-size="15" font-weight="700" fill="#0f172a">under $4</text>
+
+    <!-- bar 2: $8 average -->
+    <text x="30" y="222" font-size="14" fill="#334155">Averages $8 a day</text>
+    <text x="30" y="240" font-size="12" fill="#64748b">the average Ollie prints in the same answer</text>
+    <rect x="300" y="202" width="520" height="32" rx="8" fill="#1d4ed8"/>
+    <text x="832" y="224" font-size="15" font-weight="700" fill="#0f172a">$8 avg</text>
+
+    <text x="30" y="292" font-size="12.5" fill="#64748b">Ollie: "Prices will vary based on the size of your dog and the size of their portions." Bars are Ollie's wording, not a quote for your dog.</text>
+
+    <!-- per meal chips: full width row -->
+    <rect x="8" y="314" width="464" height="146" rx="16" fill="#f1f5f9" stroke="#64748b" stroke-width="2"/>
+    <text x="30" y="344" font-size="15" font-weight="700" fill="#0f172a">Printed per MEAL instead - a different unit</text>
+    <rect x="30" y="358" width="200" height="60" rx="12" fill="#ffffff" stroke="#94a3b8"/>
+    <text x="46" y="388" font-size="20" font-weight="700" fill="#0f172a">$1.57 a meal</text>
+    <text x="46" y="408" font-size="12.5" fill="#475569">Full Fresh Meals, "Starting at"</text>
+    <rect x="246" y="358" width="204" height="60" rx="12" fill="#ffffff" stroke="#94a3b8"/>
+    <text x="262" y="388" font-size="20" font-weight="700" fill="#0f172a">$1.00 a meal</text>
+    <text x="262" y="408" font-size="12.5" fill="#475569">Half Fresh Plan, "Starting at"</text>
+    <text x="30" y="444" font-size="12.5" fill="#64748b">Source: ollie.com/meal-plans. Ollie never prints a per-day price next to these.</text>
+
+    <rect x="488" y="314" width="464" height="146" rx="16" fill="#f8fafc" stroke="#64748b" stroke-width="2"/>
+    <text x="510" y="344" font-size="15" font-weight="700" fill="#0f172a">Why the two units cannot be mixed</text>
+    <text x="510" y="372" font-size="13.5" fill="#334155">&#8226; $1.57 / $1.00 are per meal and are labelled "Starting at"</text>
+    <text x="510" y="396" font-size="13.5" fill="#334155">&#8226; under $4 and $8 are per day, from the FAQ answer</text>
+    <text x="510" y="420" font-size="13.5" fill="#334155">&#8226; Ollie does not publish meals per day or a conversion between them</text>
+    <text x="510" y="444" font-size="13.5" fill="#334155">&#8226; so the site never multiplies them, and neither does this page</text>
+
+    <!-- billing band -->
+    <rect x="8" y="474" width="944" height="86" rx="14" fill="#0f172a"/>
+    <text x="30" y="500" font-size="15" font-weight="700" fill="#ffffff">What Ollie publishes about the bill itself:</text>
+    <text x="30" y="524" font-size="14" fill="#e2e8f0">starter box = your first two weeks of food + a welcome kit (scoop, puptainer) &#183; account charged three days before the box ships, no edits after that &#183; free delivery per the Meal Plans page title</text>
+    <text x="30" y="546" font-size="14" fill="#e2e8f0">subscription only &#183; cancel on the website, not in the app (per dog) &#183; ships to the continental United States, not Alaska or Hawaii</text>
+
+    <text x="8" y="586" font-size="12.5" fill="#64748b">Sources read on 2026-09-26 (UTC+8): ollie.com/faqs (cost per day, billing, starter box, cancel, shipping) and ollie.com/meal-plans (per-meal starting prices, "Free Delivery" page title).</text>
+    <text x="8" y="608" font-size="12.5" fill="#64748b">No figure on this chart is estimated, converted or taken from a third-party comparison site; if Ollie does not print it, the page says so.</text>
+  </g>
+</svg>

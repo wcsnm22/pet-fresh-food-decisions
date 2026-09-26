@@ -1,0 +1,40 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 960 486" width="960" height="486" role="img" aria-label="Infographic comparing the prices Ollie and The Farmer's Dog publish on their own sites on 2026-09-26: Ollie lists Full Fresh Meals from 1.57 dollars a meal and the Half Fresh Plan from 1.00 dollar a meal, with its FAQ saying food starts under 4 dollars a day for small dogs fed Ollie exclusively and averages 8 dollars a day; The Farmer's Dog publishes one figure, plans start at about 2 dollars a day; the two use different units, per meal versus per day, so they cannot be subtracted">
+  <g font-family="Segoe UI, Arial, sans-serif">
+
+    <text x="8" y="26" font-size="19" font-weight="700" fill="#0f172a">Ollie vs The Farmer's Dog: the price each brand actually publishes</text>
+    <text x="8" y="50" font-size="13.5" fill="#475569">Every figure below is printed on the brand's own site, read on 2026-09-26 (UTC+8). Left: per meal. Right: per day.</text>
+
+    <!-- left panel: Ollie -->
+    <rect x="8" y="70" width="452" height="286" rx="16" fill="#f1f5f9" stroke="#64748b" stroke-width="2"/>
+    <rect x="8" y="70" width="452" height="46" rx="16" fill="#e2e8f0"/>
+    <text x="30" y="100" font-size="19" font-weight="700" fill="#0f172a">Ollie - priced per MEAL</text>
+    <text x="30" y="148" font-size="27" font-weight="700" fill="#0f172a">From $1.57 a meal</text>
+    <text x="30" y="172" font-size="14" fill="#334155">Full Fresh Meals (premium), printed on the Meal Plans page</text>
+    <text x="30" y="206" font-size="20" font-weight="700" fill="#0f172a">From $1.00 a meal</text>
+    <text x="30" y="228" font-size="14" fill="#334155">Half Fresh Plan (budget friendly), same page</text>
+    <text x="30" y="262" font-size="15" font-weight="700" fill="#0f172a">Ollie's FAQ answers per day instead:</text>
+    <text x="30" y="286" font-size="14" fill="#334155">&#8226; starts at less than $4 a day for small dogs fed Ollie exclusively</text>
+    <text x="30" y="310" font-size="14" fill="#334155">&#8226; averages $8 a day</text>
+    <text x="30" y="338" font-size="13" fill="#64748b">Source: ollie.com/meal-plans and ollie.com/faqs, checked 2026-09-26</text>
+
+    <!-- right panel: The Farmer's Dog -->
+    <rect x="500" y="70" width="452" height="286" rx="16" fill="#f8fafc" stroke="#64748b" stroke-width="2"/>
+    <rect x="500" y="70" width="452" height="46" rx="16" fill="#e2e8f0"/>
+    <text x="522" y="100" font-size="19" font-weight="700" fill="#0f172a">The Farmer's Dog - priced per DAY</text>
+    <text x="522" y="148" font-size="27" font-weight="700" fill="#0f172a">From about $2 a day</text>
+    <text x="522" y="172" font-size="14" fill="#334155">"Plans start at about $2/day" - the only price it prints</text>
+    <text x="522" y="206" font-size="14" fill="#334155">&#8226; exact plan depends on age, weight, activity and recipe</text>
+    <text x="522" y="230" font-size="14" fill="#334155">&#8226; delivery options mostly range from 1 week to 2 months of food</text>
+    <text x="522" y="254" font-size="14" fill="#334155">&#8226; those delivery options include free shipping</text>
+    <text x="522" y="278" font-size="14" fill="#334155">&#8226; no per-meal price is published anywhere on the FAQ</text>
+    <text x="522" y="338" font-size="13" fill="#64748b">Source: thefarmersdog.com/faq, checked 2026-09-26</text>
+
+    <!-- unit warning band -->
+    <rect x="8" y="370" width="944" height="56" rx="14" fill="#0f172a"/>
+    <text x="30" y="394" font-size="15" font-weight="700" fill="#ffffff">Different units: $1.57 a meal and $2 a day are not comparable, and neither is your final bill.</text>
+    <text x="30" y="416" font-size="14" fill="#e2e8f0">Both brands price your dog individually - Ollie in its plan builder, The Farmer's Dog through its questionnaire - so no official page publishes the same dog's price twice.</text>
+
+    <text x="8" y="456" font-size="12.5" fill="#64748b">Read from the brands' own pages on 2026-09-26 (UTC+8): ollie.com/meal-plans, ollie.com/faqs, thefarmersdog.com/faq. Starting prices, not quotes.</text>
+    <text x="8" y="476" font-size="12.5" fill="#64748b">No third-party comparison site was used, and no figure on this chart is an estimate.</text>
+  </g>
+</svg>

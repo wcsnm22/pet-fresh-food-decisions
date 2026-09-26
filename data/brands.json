@@ -14,9 +14,9 @@
       "slug": "ollie-fresh-dog-food",
       "official_site": "https://www.ollie.com/",
       "quote_url": "https://www.ollie.com/onboarding/",
-      "short_answer": "Ollie sells human-grade fresh dog food as a subscription. Its own Meal Plans page publishes starting prices - Full Fresh Meals from $1.57 a meal and the Half Fresh Plan from $1.00 a meal - and ollie.com currently advertises 50% off your first box plus a free hat and dog bandana.",
+      "short_answer": "Ollie sells human-grade fresh dog food as a subscription. Its own Meal Plans page publishes starting prices - Full Fresh Meals from $1.57 a meal and the Half Fresh Plan from $1.00 a meal - and ollie.com advertised a first-box discount with a free hat and dog bandana on the check date, though the banner figure differed between readings (50% at 19:06 UTC+8, 70% at 19:21).",
       "price_line": "From $1.57 a meal",
-      "price_condition": "Full Fresh Meals are listed as 'Starting at $1.57 a meal' and the budget Half Fresh Plan as 'Starting at $1.00 a meal' on Ollie's Meal Plans page. These are starting prices: Ollie prices your individual plan inside its plan builder, so the per-meal figure for your dog comes from the quote, not from the public page. First-order promo as published on ollie.com on the check date: 50% off your first box + free hat and dog bandana.",
+      "price_condition": "Full Fresh Meals are listed as 'Starting at $1.57 a meal' and the budget Half Fresh Plan as 'Starting at $1.00 a meal' on Ollie's Meal Plans page. These are starting prices: Ollie prices your individual plan inside its plan builder, so the per-meal figure for your dog comes from the quote, not from the public page. First-order promo as published on ollie.com on the check date: the banner offered a first box discount plus a free hat and dog bandana, reading 50% off in the Meal Plans page HTML at 19:06 (UTC+8) and 70% off on the homepage at 19:21 the same day - confirm the banner at checkout.",
       "price_source": "https://www.ollie.com/meal-plans",
       "facts": [
         {
@@ -32,8 +32,8 @@
           "checked": "2026-09-26"
         },
         {
-          "fact": "Ollie currently advertises '50% off your first box + free hat and dog bandana'.",
-          "condition": "Promo text in the site banner on ollie.com on the check date; like all promotions it can change or end without notice.",
+          "fact": "Ollie's own pages advertised a first-box discount with a free hat and dog bandana on 2026-09-26, but the figure was not stable: the Meal Plans page HTML read '50% off your first box' at 19:06 (UTC+8) and the homepage read '70% off your first box + free hat and dog bandana' at 19:21 the same day.",
+          "condition": "Both readings are ollie.com's own banner text on the check date, taken 15 minutes apart; like all promotions it can change or end without notice, so confirm the banner at checkout.",
           "source_url": "https://www.ollie.com/",
           "checked": "2026-09-26"
         },
@@ -89,7 +89,7 @@
         },
         {
           "q": "Does Ollie have a first-order discount?",
-          "a": "Yes, as published on the check date: the ollie.com banner offers 50% off your first box plus a free hat and dog bandana. We repeat it only because the brand's own site prints it - confirm the current terms on Ollie's site before ordering.",
+          "a": "Yes, as published on the check date: ollie.com advertised a first-box discount plus a free hat and dog bandana. The banner figure was not stable that day - 50% off in the Meal Plans page HTML at 19:06 (UTC+8) and 70% off on the homepage at 19:21 - so treat it as dynamic and confirm the current terms on Ollie's site before ordering.",
           "source_url": "https://www.ollie.com/",
           "checked": "2026-09-26"
         },

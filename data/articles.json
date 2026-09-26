@@ -1,3 +1,723 @@
 {
-  "articles": []
+  "articles": [
+    {
+      "slug": "ollie-vs-the-farmers-dog",
+      "nav_label": "Ollie vs The Farmer's Dog",
+      "type": "vs",
+      "keyword": "ollie vs the farmers dog",
+      "published": "2026-09-26",
+      "title": "Ollie vs The Farmer's Dog 2026: The Prices Each Brand Actually Publishes, Per Meal vs Per Day",
+      "description": "Ollie vs The Farmer's Dog built only from the two brands' own pages, read 2026-09-26: The Farmer's Dog publishes one number - plans start at about $2 a day - while Ollie publishes $1.57 and $1.00 a meal plus a FAQ range of under $4 a day for small dogs and $8 a day on average. Different units, so they cannot be subtracted; each cell carries its official source.",
+      "h1": "Ollie vs The Farmer's Dog: what each brand publishes about price, checked 2026-09-26",
+      "lede": "Quick answer: the two brands do not publish the same kind of number, so a straight price-versus-price verdict does not exist on their own sites. The Farmer's Dog prints one figure - plans start at about $2/day, with delivery options mostly ranging from 1 week to 2 months of food and including free shipping. Ollie prints per-meal figures instead - Full Fresh Meals from $1.57 a meal, Half Fresh Plan from $1.00 a meal - and answers in per-day terms only inside its FAQ: food starts at less than four dollars a day for small dogs fed Ollie exclusively, and averages $8 a day. Neither brand prices your dog on a public page (Ollie uses its plan builder, The Farmer's Dog uses a questionnaire), so the numbers below are floors, not bills. Every line carries its official source and a check date of 2026-09-26.",
+      "stats": [
+        {
+          "value": "about $2/day",
+          "label": "The Farmer's Dog - the only per-day starting price the two brands publish (its own FAQ, checked 2026-09-26)"
+        },
+        {
+          "value": "$1.57 / meal",
+          "label": "Ollie Full Fresh Meals starting price on its Meal Plans page; the Half Fresh Plan starts at $1.00 a meal (2026-09-26)"
+        },
+        {
+          "value": "$8/day avg",
+          "label": "what Ollie's own FAQ says its food averages, starting under $4 a day for small dogs fed Ollie exclusively (2026-09-26)"
+        }
+      ],
+      "columns": [
+        {
+          "name": "Ollie Meal Plans",
+          "url": "https://www.ollie.com/meal-plans"
+        },
+        {
+          "name": "The Farmer's Dog FAQ",
+          "url": "https://www.thefarmersdog.com/faq"
+        }
+      ],
+      "rows": [
+        {
+          "label": "Starting price the brand prints",
+          "cells": [
+            "'Starting at $1.57 a meal' for Full Fresh Meals (Premium) and 'Starting at $1.00 a meal' for the Half Fresh Plan (budget friendly). Both are floor prices: your dog's plan is priced inside Ollie's plan builder.",
+            "'Plans start at about $2/day.' The exact plan and price depend on age, weight, activity and recipe choice, and The Farmer's Dog shows them after you fill out its questionnaire."
+          ],
+          "sources": [
+            "https://www.ollie.com/meal-plans",
+            "https://www.thefarmersdog.com/faq"
+          ]
+        },
+        {
+          "label": "Unit of that price",
+          "cells": [
+            "Per meal on the public page. Its per-day figures live in the FAQ instead: food starts at less than four dollars a day for small dogs fed Ollie exclusively, and averages $8 a day.",
+            "Per day. The FAQ does not print a per-meal price anywhere, so there is no Ollie-style per-meal figure to compare against."
+          ],
+          "sources": [
+            "https://www.ollie.com/faqs/",
+            "https://www.thefarmersdog.com/faq"
+          ]
+        },
+        {
+          "label": "What your first delivery contains",
+          "cells": [
+            "A starter box with the first two weeks of food plus a welcome kit - a scoop and a puptainer for storage.",
+            "Delivery options mostly range from 1 week to 2 months of food, and each plan is customized to your dog's needs."
+          ],
+          "sources": [
+            "https://www.ollie.com/faqs/",
+            "https://www.thefarmersdog.com/faq"
+          ]
+        },
+        {
+          "label": "Shipping cost",
+          "cells": [
+            "Free delivery: the Meal Plans page title reads 'Dog Meal Plans | Free Delivery | Ollie'. No minimum order is printed on the page.",
+            "The FAQ says delivery options 'include free shipping'. No minimum order is printed either."
+          ],
+          "sources": [
+            "https://www.ollie.com/meal-plans",
+            "https://www.thefarmersdog.com/faq"
+          ]
+        },
+        {
+          "label": "Where it ships",
+          "cells": [
+            "The continental United States - Ollie says it is unable to ship to Alaska or Hawaii at this time.",
+            "The 48 contiguous states."
+          ],
+          "sources": [
+            "https://www.ollie.com/faqs/",
+            "https://www.thefarmersdog.com/faq"
+          ]
+        },
+        {
+          "label": "Commitment and how you cancel",
+          "cells": [
+            "Subscription only - Ollie says it is currently a subscription-based service, so you cannot order without subscribing. Cancelling happens on the website account (not in the app): My Plan > My Info > Subscriptions > Cancel Subscription, once per dog; Ollie also prints a cancellation line, +1 650-405-3420, 9am-8pm ET Mon-Fri and 10am-7pm ET Sat.",
+            "'Yes, you can easily pause, cancel or reactivate your subscription anytime' from the Customer Account."
+          ],
+          "sources": [
+            "https://www.ollie.com/faqs/",
+            "https://www.thefarmersdog.com/faq"
+          ]
+        },
+        {
+          "label": "When the money leaves your account",
+          "cells": [
+            "Three days before the package ships; once the order charges, Ollie says it cannot be edited or altered.",
+            "An email notice before each order is billed and shipped; the FAQ does not print how many days before shipment that is."
+          ],
+          "sources": [
+            "https://www.ollie.com/faqs/",
+            "https://www.thefarmersdog.com/faq"
+          ]
+        },
+        {
+          "label": "Storage once it arrives",
+          "cells": [
+            "Freezer up to 6 months unopened; thaw in the refrigerator for 24 hours, then the food is good for up to 4 days - keep it in the puptainer with the lid on.",
+            "Keep it in a refrigerator or freezer, and only feed packs that arrive frozen or very cold (still below 40°F). Instant Fresh is shelf-stable and does not need refrigerating."
+          ],
+          "sources": [
+            "https://www.ollie.com/faqs/",
+            "https://www.thefarmersdog.com/faq"
+          ]
+        },
+        {
+          "label": "Recipes and product lines",
+          "cells": [
+            "Five recipes on the Meal Plans page - Beef (marked POPULAR), Chicken, Lamb, Turkey and Pork - across Full Fresh and Half Fresh plans; Ollie's FAQ also lists a Baked food that can be mixed with fresh.",
+            "Two serving styles: Fresh (gently cooked, quickly frozen) and Instant Fresh (shelf-stable), plus Treats. Proteins are beef, chicken, turkey and pork, formulated to AAFCO standards by on-staff board-certified veterinary nutritionists."
+          ],
+          "sources": [
+            "https://www.ollie.com/meal-plans",
+            "https://www.thefarmersdog.com/faq"
+          ]
+        },
+        {
+          "label": "First-order discount seen on 2026-09-26",
+          "cells": [
+            "A first-box discount plus a free hat and dog bandana, but the figure was not stable on the day we checked: /meal-plans served '50% off your first box' in its page HTML at 19:06 (UTC+8), while ollie.com/faqs served 'Get 70% Off' at 19:10 and the homepage showed '70% off your first box + free hat and dog bandana' at 19:21 the same evening.",
+            "'You've been gifted 50% off your first purchase!' in the top banner and 'Build your plan for 50% off' on the FAQ page header, both read on 2026-09-26 (UTC+8)."
+          ],
+          "sources": [
+            "https://www.ollie.com/meal-plans",
+            "https://www.thefarmersdog.com/faq"
+          ]
+        },
+        {
+          "label": "What you have to do to get a price",
+          "cells": [
+            "Run the plan builder (the Get Started flow). The public pages only show starting prices per meal.",
+            "Fill out the short questionnaire, and the brand shows your exact pricing options."
+          ],
+          "sources": [
+            "https://www.ollie.com/meal-plans",
+            "https://www.thefarmersdog.com/faq"
+          ]
+        }
+      ],
+      "facts": [
+        {
+          "fact": "Ollie publishes Full Fresh Meals as 'Starting at $1.57 a meal'.",
+          "condition": "Printed under Full Fresh Meals (Premium) on the Meal Plans page read on 2026-09-26; it is a starting price, and the individual plan is priced in the plan builder.",
+          "source_url": "https://www.ollie.com/meal-plans",
+          "checked": "2026-09-26"
+        },
+        {
+          "fact": "Ollie publishes the Half Fresh Plan as 'Starting at $1.00 a meal'.",
+          "condition": "Printed as 'budget friendly' on the same Meal Plans page read on 2026-09-26.",
+          "source_url": "https://www.ollie.com/meal-plans",
+          "checked": "2026-09-26"
+        },
+        {
+          "fact": "Ollie's FAQ says its food starts at less than four dollars per day for small dogs who are exclusively fed Ollie, and averages $8 per day.",
+          "condition": "Answer to 'How much does Ollie cost?' on ollie.com/faqs, opened in a browser on 2026-09-26; Ollie adds that prices vary with the size of the dog and the size of its portions.",
+          "source_url": "https://www.ollie.com/faqs/",
+          "checked": "2026-09-26"
+        },
+        {
+          "fact": "The Farmer's Dog publishes 'Plans start at about $2/day'.",
+          "condition": "Answer to 'What does The Farmer's Dog cost?' on its FAQ page, read on 2026-09-26; the same answer says price depends on age, weight, activity and recipe choice.",
+          "source_url": "https://www.thefarmersdog.com/faq",
+          "checked": "2026-09-26"
+        },
+        {
+          "fact": "The Farmer's Dog says delivery options mostly range from 1 week to 2 months of food and include free shipping.",
+          "condition": "Same FAQ answer as the $2/day figure, read on 2026-09-26.",
+          "source_url": "https://www.thefarmersdog.com/faq",
+          "checked": "2026-09-26"
+        },
+        {
+          "fact": "Ollie's starter box contains the first two weeks of food plus a welcome kit with a scoop and a puptainer.",
+          "condition": "Answer to 'What's included in my starter box?' on ollie.com/faqs, read on 2026-09-26.",
+          "source_url": "https://www.ollie.com/faqs/",
+          "checked": "2026-09-26"
+        },
+        {
+          "fact": "Ollie is subscription-only: it says it is currently a subscription-based service, so you cannot order without subscribing.",
+          "condition": "Answer to 'Can I order Ollie without subscribing?' on ollie.com/faqs, read on 2026-09-26.",
+          "source_url": "https://www.ollie.com/faqs/",
+          "checked": "2026-09-26"
+        },
+        {
+          "fact": "Ollie says cancelling happens from your account on its website - not through the app - one dog at a time, and that cancelling turns off auto-renewal without affecting orders already in progress; it also prints the line +1 650-405-3420, 9am-8pm ET Monday-Friday and 10am-7pm ET Saturday.",
+          "condition": "Answer to 'How do I cancel my subscription? (Turn off auto-renew)' on ollie.com/faqs, read on 2026-09-26.",
+          "source_url": "https://www.ollie.com/faqs/",
+          "checked": "2026-09-26"
+        },
+        {
+          "fact": "Ollie charges your account three days before the package ships, and once the order charges it cannot be edited or altered.",
+          "condition": "Answer to 'When am I charged for each order?' on ollie.com/faqs, read on 2026-09-26.",
+          "source_url": "https://www.ollie.com/faqs/",
+          "checked": "2026-09-26"
+        },
+        {
+          "fact": "Ollie ships to pups in the continental United States and says it cannot ship to Alaska or Hawaii at this time.",
+          "condition": "Answer to 'Where do you ship?' on ollie.com/faqs, read on 2026-09-26.",
+          "source_url": "https://www.ollie.com/faqs/",
+          "checked": "2026-09-26"
+        },
+        {
+          "fact": "Ollie says its packs last up to 6 months unopened in the freezer, need 24 hours to thaw in the refrigerator, and keep for up to 4 days once thawed.",
+          "condition": "Answer to 'Can I freeze the food? And how long will it last?' on ollie.com/faqs, read on 2026-09-26; it also says to keep the food in the puptainer with the lid on after opening.",
+          "source_url": "https://www.ollie.com/faqs/",
+          "checked": "2026-09-26"
+        },
+        {
+          "fact": "The Farmer's Dog says you can pause, cancel or reactivate your subscription anytime from your Customer Account.",
+          "condition": "Answer to 'Can I cancel or reactivate my subscription anytime?' on its FAQ page, read on 2026-09-26.",
+          "source_url": "https://www.thefarmersdog.com/faq",
+          "checked": "2026-09-26"
+        },
+        {
+          "fact": "The Farmer's Dog ships to the 48 contiguous states, says only to feed packs that arrive frozen or very cold (still below 40°F), and says its Instant Fresh line is shelf-stable and needs no refrigeration.",
+          "condition": "Answers in the 'Packaging and shipping' and 'Our Fresh food' sections of its FAQ page, read on 2026-09-26.",
+          "source_url": "https://www.thefarmersdog.com/faq",
+          "checked": "2026-09-26"
+        },
+        {
+          "fact": "The Farmer's Dog offers human-grade recipes in two serving styles - Fresh and Instant Fresh - plus treats, with beef, chicken, turkey and pork, formulated to AAFCO standards by on-staff board-certified veterinary nutritionists.",
+          "condition": "Answer to 'What types of recipes do you offer?' on its FAQ page, read on 2026-09-26.",
+          "source_url": "https://www.thefarmersdog.com/faq",
+          "checked": "2026-09-26"
+        },
+        {
+          "fact": "The Farmer's Dog notifies you by email before each order is billed and shipped.",
+          "condition": "Answer to 'How will I be billed for my plan?' on its FAQ page, read on 2026-09-26; no day count is printed there.",
+          "source_url": "https://www.thefarmersdog.com/faq",
+          "checked": "2026-09-26"
+        },
+        {
+          "fact": "The Meal Plans page title reads 'Dog Meal Plans | Free Delivery | Ollie', so Ollie advertises free delivery and prints no minimum order on that page.",
+          "condition": "Page title of ollie.com/meal-plans in the raw HTML fetched on 2026-09-26 at 19:06 (UTC+8).",
+          "source_url": "https://www.ollie.com/meal-plans",
+          "checked": "2026-09-26"
+        },
+        {
+          "fact": "Ollie's own pages advertised two different first-box figures on 2026-09-26: /meal-plans served '50% off your first box + free hat and dog bandana' in its HTML at 19:06 (UTC+8), while ollie.com/faqs served 'Get 70% Off' at 19:10 and the homepage showed '70% off your first box + free hat and dog bandana' at 19:21.",
+          "condition": "Both readings are ollie.com's own text on the check date, taken 15 minutes apart - treat the first-box discount as dynamic and confirm the banner at checkout.",
+          "source_url": "https://www.ollie.com/meal-plans",
+          "checked": "2026-09-26"
+        },
+        {
+          "fact": "The Farmer's Dog's banner on 2026-09-26 read 'You've been gifted 50% off your first purchase!' and 'Build your plan for 50% off'.",
+          "condition": "Banner text on the FAQ page as rendered on 2026-09-26 (UTC+8); like all promotions it can change or end without notice.",
+          "source_url": "https://www.thefarmersdog.com/faq",
+          "checked": "2026-09-26"
+        },
+        {
+          "fact": "The Farmer's Dog says its Fresh food is gently cooked in human food facilities and quickly frozen, while Instant Fresh is dried with its Low-Heat Drying Technology, and that no cooking is needed.",
+          "condition": "Answers to 'What does fresh mean to The Farmer's Dog?' and 'Do I need to cook the food?' on its FAQ page, read on 2026-09-26.",
+          "source_url": "https://www.thefarmersdog.com/faq",
+          "checked": "2026-09-26"
+        }
+      ],
+      "faqs": [
+        {
+          "q": "Which brand publishes a per-day starting price?",
+          "a": "Only The Farmer's Dog. Its FAQ says 'Plans start at about $2/day'. Ollie publishes per-meal starting prices on its Meal Plans page ($1.57 Full Fresh, $1.00 Half Fresh) and gives per-day figures only inside its FAQ - under $4 a day for small dogs fed Ollie exclusively, averaging $8 a day.",
+          "source_url": "https://www.thefarmersdog.com/faq",
+          "checked": "2026-09-26"
+        },
+        {
+          "q": "Is Ollie cheaper than The Farmer's Dog?",
+          "a": "Their own pages do not answer that, and neither do we. The two publish different units (per meal versus per day), each prices your dog individually through its own tool, and neither brand publishes a head-to-head figure for the same dog. Anyone quoting a single winner is doing arithmetic the brands themselves do not do.",
+          "source_url": "https://www.ollie.com/meal-plans",
+          "checked": "2026-09-26"
+        },
+        {
+          "q": "How much does Ollie cost per day?",
+          "a": "Ollie's own FAQ says its food starts at less than four dollars per day for small dogs who are exclusively fed Ollie, and averages $8 per day. It also says prices vary based on the size of your dog and the size of their portions, so the average is its own figure, not a quote for your dog.",
+          "source_url": "https://www.ollie.com/faqs/",
+          "checked": "2026-09-26"
+        },
+        {
+          "q": "How much does The Farmer's Dog cost per day?",
+          "a": "Its FAQ says plans start at about $2/day, and that your exact plan and price depend on age, weight, activity and recipe choice. The exact pricing options appear after you fill out the questionnaire.",
+          "source_url": "https://www.thefarmersdog.com/faq",
+          "checked": "2026-09-26"
+        },
+        {
+          "q": "Do either of them charge for shipping?",
+          "a": "Both advertise it as free. Ollie's Meal Plans page title reads 'Dog Meal Plans | Free Delivery | Ollie'; The Farmer's Dog says its delivery options include free shipping. Neither page prints a minimum order for it.",
+          "source_url": "https://www.ollie.com/meal-plans",
+          "checked": "2026-09-26"
+        },
+        {
+          "q": "Where do they ship?",
+          "a": "Ollie ships to pups in the continental United States and says it cannot ship to Alaska or Hawaii at this time. The Farmer's Dog ships to the 48 contiguous states.",
+          "source_url": "https://www.ollie.com/faqs/",
+          "checked": "2026-09-26"
+        },
+        {
+          "q": "Can you cancel whenever you want?",
+          "a": "Both say yes, with different mechanics. The Farmer's Dog: pause, cancel or reactivate anytime from your Customer Account. Ollie: cancel from your account on its website (not the app), one dog at a time, or call +1 650-405-3420 - cancelling turns off auto-renewal and does not affect orders already in progress.",
+          "source_url": "https://www.ollie.com/faqs/",
+          "checked": "2026-09-26"
+        },
+        {
+          "q": "How do you store the food when it arrives?",
+          "a": "Ollie: freezer up to 6 months unopened, 24 hours to thaw in the fridge, then up to 4 days to serve. The Farmer's Dog: keep it refrigerated or frozen and only feed packs that arrive frozen or very cold, still below 40°F - its Instant Fresh line is shelf-stable and needs no refrigeration.",
+          "source_url": "https://www.thefarmersdog.com/faq",
+          "checked": "2026-09-26"
+        },
+        {
+          "q": "Is there a first-order discount?",
+          "a": "On 2026-09-26 both brands advertised one: The Farmer's Dog showed '50% off your first purchase', and Ollie's pages showed 50% at 19:06 (UTC+8) and 70% later the same evening. Ollie's banner figure changed within minutes of our check, so confirm the current offer and its terms on the brand's site before ordering.",
+          "source_url": "https://www.ollie.com/meal-plans",
+          "checked": "2026-09-26"
+        },
+        {
+          "q": "What is in the first delivery?",
+          "a": "Ollie's starter box is the first two weeks of food plus a welcome kit with a scoop and a puptainer. The Farmer's Dog's delivery options mostly range from 1 week to 2 months of food, with the amount customized to your dog.",
+          "source_url": "https://www.ollie.com/faqs/",
+          "checked": "2026-09-26"
+        }
+      ],
+      "disclaimer": "Assembled only from ollie.com and thefarmersdog.com pages read on 2026-09-26 (UTC+8) - no third-party comparison site, no affiliate quote, no invented price. Both brands publish starting prices and per-day statements rather than quotes for your dog, so treat every figure here as a floor; promos change without notice (Ollie's first-box banner differed between two readings on the same evening). Re-read the official page before you order.",
+      "blocks": [
+        {
+          "type": "section",
+          "h2": "How this page was checked",
+          "html": "<p>This page is a read-out, not an opinion. On 2026-09-26 (UTC+8) we fetched Ollie's Meal Plans page in raw HTML at 19:06, opened The Farmer's Dog's FAQ and Ollie's FAQ in a real browser at 19:10, and re-read Ollie's homepage at 19:21 - then opened Ollie's FAQ answers one question at a time (cost, billing, cancellation, storage, shipping), because the answers are loaded on click and do not appear in the page source.</p><p><strong>What that produced:</strong> one per-day number from The Farmer's Dog, two per-meal numbers plus two per-day numbers from Ollie, and a set of terms (shipping, cancellation, storage, billing) that are simply printed differently by each brand. Where a brand does not publish something, the cell says so instead of guessing.</p><p><strong>Deliberately excluded:</strong> every third-party comparison table, every crowd-sourced price, and every conversion between units that the brands themselves never print.</p><p><img src=\"/assets/ollie-vs-tfd-price-units.svg\" alt=\"Infographic comparing the prices Ollie and The Farmer's Dog publish on 2026-09-26: Ollie lists Full Fresh Meals from 1.57 dollars a meal and the Half Fresh Plan from 1.00 dollar a meal, with its FAQ saying food starts under 4 dollars a day for small dogs fed Ollie exclusively and averages 8 dollars a day, while The Farmer's Dog publishes one figure, plans start at about 2 dollars a day; the two units cannot be subtracted\" width=\"100%\"></p>"
+        },
+        {
+          "type": "section",
+          "h2": "The exclusive bit: each brand publishes the number the other one does not",
+          "html": "<p>This is the whole comparison in one line: <strong>only The Farmer's Dog publishes a per-day starting price, and only Ollie publishes per-meal starting prices.</strong> That is not a stylistic quirk - it changes what you can honestly calculate.</p><p>Ollie gives you $1.57 and $1.00 but no official meals-per-day figure, so the public pages never multiply them out; its per-day answer lives in a separate FAQ entry ($8 average, under $4 for small dogs). The Farmer's Dog gives you about $2 a day and never prints a per-meal number anywhere on its FAQ. So a reader who types 'Ollie vs The Farmer's Dog price' into a search box will find sites doing the multiplication for them; the brands do not.</p><p>The terms diverge in the same pattern. Ollie pins down the mechanics to the day (charged three days before shipping, freezer life of 6 months unopened, 4 days once thawed, cancel on the website but not the app) while The Farmer's Dog keeps it loose (pause, cancel, reactivate anytime; food below 40°F on arrival; delivery from 1 week to 2 months). Neither is wrong - they are just different disclosures, and both are printed in the sources linked beside each row.</p>"
+        },
+        {
+          "type": "compare",
+          "h2": "Ollie vs The Farmer's Dog, side by side - official published figures only"
+        },
+        {
+          "type": "facts",
+          "h2": "Every figure with its official source"
+        },
+        {
+          "type": "faqs",
+          "h2": "Ollie vs The Farmer's Dog - FAQ"
+        },
+        {
+          "type": "cards",
+          "h2": "Every brand on this site, page by page"
+        }
+      ]
+    },
+    {
+      "slug": "ollie-cost-per-day",
+      "nav_label": "Ollie Cost Per Day",
+      "type": "pricing",
+      "keyword": "ollie cost per day",
+      "published": "2026-09-26",
+      "title": "How Much Does Ollie Cost Per Day? The Per-Day and Per-Meal Figures Ollie Publishes, Checked 2026-09-26",
+      "description": "Ollie's cost per day from Ollie's own pages on 2026-09-26: its FAQ says food starts at under $4 a day for small dogs fed Ollie exclusively and averages $8 a day, while the Meal Plans page prints $1.57 a meal (Full Fresh) and $1.00 a meal (Half Fresh). Also what Ollie publishes about billing, the starter box, free delivery and cancelling.",
+      "h1": "How much does Ollie cost per day? Under $4 to start, $8 on average - Ollie's own FAQ, checked 2026-09-26",
+      "lede": "Quick answer: Ollie answers this question itself, in its own FAQ - food starts at less than four dollars per day for small dogs who are exclusively fed Ollie, and averages $8 per day. Ollie adds that prices vary based on the size of your dog and the size of their portions, so both numbers are its own statements, not a quote for your dog. The Meal Plans page publishes a different unit entirely: Full Fresh Meals from $1.57 a meal and the Half Fresh Plan from $1.00 a meal, both labelled 'Starting at', and no per-day figure next to them. What Ollie does print about the bill: your starter box is the first two weeks of food, your account is charged three days before the box ships (no edits after that), delivery is free per the page title, and cancellation happens on the website rather than in the app. Every figure below carries its official source and a check date of 2026-09-26.",
+      "stats": [
+        {
+          "value": "under $4/day",
+          "label": "Ollie's FAQ: food starts at less than four dollars a day for small dogs fed Ollie exclusively (2026-09-26)"
+        },
+        {
+          "value": "$8/day",
+          "label": "the average Ollie prints in the same FAQ answer, with prices varying by dog size and portion size (2026-09-26)"
+        },
+        {
+          "value": "$1.57/meal",
+          "label": "Full Fresh Meals starting price on the Meal Plans page; the Half Fresh Plan starts at $1.00 a meal (2026-09-26)"
+        }
+      ],
+      "columns": [
+        {
+          "name": "Ollie Meal Plans",
+          "url": "https://www.ollie.com/meal-plans"
+        },
+        {
+          "name": "Ollie FAQs",
+          "url": "https://www.ollie.com/faqs/"
+        },
+        {
+          "name": "Ollie homepage",
+          "url": "https://www.ollie.com/"
+        }
+      ],
+      "rows": [
+        {
+          "label": "Per-day figure printed on the page",
+          "cells": [
+            "not published on the official site on this page - the Meal Plans page prints per-meal starting prices only.",
+            "Starts at less than four dollars a day for small dogs exclusively fed Ollie, and averages $8 a day.",
+            "not published on the official site on this page - the homepage sends you to the plan builder instead."
+          ],
+          "sources": [
+            "",
+            "https://www.ollie.com/faqs/",
+            ""
+          ]
+        },
+        {
+          "label": "Per-meal figure printed on the page",
+          "cells": [
+            "$1.57 a meal for Full Fresh Meals (Premium) and $1.00 a meal for the Half Fresh Plan (budget friendly), both labelled 'Starting at'.",
+            "not published on the official site on this page - the FAQ answers cost in per-day terms.",
+            "not published on the official site on this page."
+          ],
+          "sources": [
+            "https://www.ollie.com/meal-plans",
+            "",
+            ""
+          ]
+        },
+        {
+          "label": "What the final price depends on",
+          "cells": [
+            "The plan builder: the page says choose one recipe or mix and match, and prices your individual plan inside the Get Started flow.",
+            "'Prices will vary based on the size of your dog and the size of their portions.'",
+            "not published on the official site on this page."
+          ],
+          "sources": [
+            "https://www.ollie.com/meal-plans",
+            "https://www.ollie.com/faqs/",
+            ""
+          ]
+        },
+        {
+          "label": "What your first order actually is",
+          "cells": [
+            "not published on the official site on this page.",
+            "A starter box with the first two weeks of food plus a welcome kit containing a scoop and a puptainer.",
+            "not published on the official site on this page."
+          ],
+          "sources": [
+            "",
+            "https://www.ollie.com/faqs/",
+            ""
+          ]
+        },
+        {
+          "label": "When you are charged",
+          "cells": [
+            "not published on the official site on this page.",
+            "Three days before the package ships; once the order charges, it cannot be edited or altered.",
+            "not published on the official site on this page."
+          ],
+          "sources": [
+            "",
+            "https://www.ollie.com/faqs/",
+            ""
+          ]
+        },
+        {
+          "label": "Delivery price",
+          "cells": [
+            "Free delivery - the page title reads 'Dog Meal Plans | Free Delivery | Ollie', and no minimum order is printed.",
+            "not published on the official site on this page.",
+            "not published on the official site on this page."
+          ],
+          "sources": [
+            "https://www.ollie.com/meal-plans",
+            "",
+            ""
+          ]
+        },
+        {
+          "label": "First-box discount read on 2026-09-26",
+          "cells": [
+            "The page HTML at 19:06 (UTC+8) read '50% off your first box + free hat and dog bandana'; the rendered header read 'Get 70% Off' later the same evening.",
+            "The rendered FAQ header read 'Get 70% Off' at 19:10 (UTC+8).",
+            "The homepage at 19:21 (UTC+8) read '70% off your first box + free hat and dog bandana' with the button 'Get 70% Off Your First Box'."
+          ],
+          "sources": [
+            "https://www.ollie.com/meal-plans",
+            "https://www.ollie.com/faqs/",
+            "https://www.ollie.com/"
+          ]
+        },
+        {
+          "label": "Subscription or one-off purchase",
+          "cells": [
+            "not published on the official site on this page.",
+            "Subscription only - Ollie says it is currently a subscription-based service, with different delivery frequencies to choose from.",
+            "not published on the official site on this page."
+          ],
+          "sources": [
+            "",
+            "https://www.ollie.com/faqs/",
+            ""
+          ]
+        },
+        {
+          "label": "Cancelling",
+          "cells": [
+            "not published on the official site on this page.",
+            "From your account on the website, not in the app: My Plan > My Info > Subscriptions > Cancel Subscription, per dog; cancelling turns off auto-renewal and does not affect orders in progress. Cancellation line: +1 650-405-3420, 9am-8pm ET Mon-Fri, 10am-7pm ET Sat.",
+            "not published on the official site on this page."
+          ],
+          "sources": [
+            "",
+            "https://www.ollie.com/faqs/",
+            ""
+          ]
+        },
+        {
+          "label": "Other numbers printed on the page",
+          "cells": [
+            "Five recipes - Beef (POPULAR), Chicken, Lamb, Turkey, Pork; meat is always the first ingredient, no added hormones or fillers, no corn, wheat or soy.",
+            "Storage figures: up to 6 months in the freezer unopened, 24 hours to thaw in the fridge, up to 4 days once thawed.",
+            "1M+ Dogs Served, 135K+ Health Check-Ins and 20K+ 5-Star Reviews, as printed in the homepage stats block."
+          ],
+          "sources": [
+            "https://www.ollie.com/meal-plans",
+            "https://www.ollie.com/faqs/",
+            "https://www.ollie.com/"
+          ]
+        }
+      ],
+      "facts": [
+        {
+          "fact": "Ollie's FAQ says its food starts at less than four dollars per day for small dogs who are exclusively fed Ollie, and averages $8 per day.",
+          "condition": "Answer to 'How much does Ollie cost?' opened on ollie.com/faqs on 2026-09-26; Ollie also says prices will vary based on the size of your dog and the size of their portions.",
+          "source_url": "https://www.ollie.com/faqs/",
+          "checked": "2026-09-26"
+        },
+        {
+          "fact": "Ollie publishes Full Fresh Meals as 'Starting at $1.57 a meal'.",
+          "condition": "Printed under Full Fresh Meals (Premium) on the Meal Plans page read on 2026-09-26 - a starting price, not your dog's bill.",
+          "source_url": "https://www.ollie.com/meal-plans",
+          "checked": "2026-09-26"
+        },
+        {
+          "fact": "Ollie publishes the Half Fresh Plan as 'Starting at $1.00 a meal'.",
+          "condition": "Printed as 'budget friendly' on the Meal Plans page read on 2026-09-26.",
+          "source_url": "https://www.ollie.com/meal-plans",
+          "checked": "2026-09-26"
+        },
+        {
+          "fact": "Ollie's starter box contains the first two weeks of food plus a welcome kit with a scoop and a puptainer.",
+          "condition": "Answer to 'What's included in my starter box?' on ollie.com/faqs, read on 2026-09-26.",
+          "source_url": "https://www.ollie.com/faqs/",
+          "checked": "2026-09-26"
+        },
+        {
+          "fact": "Ollie charges your account three days before your package ships, and once the order charges it cannot be edited or altered.",
+          "condition": "Answer to 'When am I charged for each order?' on ollie.com/faqs, read on 2026-09-26; the same answer gives caninecare@ollie.com and 1(844) 886-5543 for date changes.",
+          "source_url": "https://www.ollie.com/faqs/",
+          "checked": "2026-09-26"
+        },
+        {
+          "fact": "The Meal Plans page title reads 'Dog Meal Plans | Free Delivery | Ollie', so Ollie advertises free delivery and prints no minimum order for it.",
+          "condition": "Page title in the raw HTML of ollie.com/meal-plans fetched on 2026-09-26 at 19:06 (UTC+8).",
+          "source_url": "https://www.ollie.com/meal-plans",
+          "checked": "2026-09-26"
+        },
+        {
+          "fact": "Ollie is subscription-only: it says it is currently a subscription-based service, so you cannot order without subscribing.",
+          "condition": "Answer to 'Can I order Ollie without subscribing?' on ollie.com/faqs, read on 2026-09-26.",
+          "source_url": "https://www.ollie.com/faqs/",
+          "checked": "2026-09-26"
+        },
+        {
+          "fact": "Ollie says you cancel from your account on its website - not through the app - by dog, with a survey before confirmation, and that cancelling turns off auto-renewal without affecting orders in progress; it prints the cancellation line +1 650-405-3420, 9am-8pm ET Monday-Friday and 10am-7pm ET Saturday.",
+          "condition": "Answer to 'How do I cancel my subscription? (Turn off auto-renew)' on ollie.com/faqs, read on 2026-09-26.",
+          "source_url": "https://www.ollie.com/faqs/",
+          "checked": "2026-09-26"
+        },
+        {
+          "fact": "Ollie ships to pups in the continental United States and says it cannot ship to Alaska or Hawaii at this time.",
+          "condition": "Answer to 'Where do you ship?' on ollie.com/faqs, read on 2026-09-26.",
+          "source_url": "https://www.ollie.com/faqs/",
+          "checked": "2026-09-26"
+        },
+        {
+          "fact": "Ollie says its food lasts up to 6 months unopened in the freezer, needs 24 hours to thaw in the refrigerator, and keeps for up to 4 days once thawed.",
+          "condition": "Answer to 'Can I freeze the food? And how long will it last?' on ollie.com/faqs, read on 2026-09-26; it also says to keep the food in the puptainer with the lid on.",
+          "source_url": "https://www.ollie.com/faqs/",
+          "checked": "2026-09-26"
+        },
+        {
+          "fact": "Ollie lists five recipes on the Meal Plans page - Beef (marked POPULAR), Chicken, Lamb, Turkey and Pork - and says meat is always the first ingredient with no added hormones or fillers and no common allergens like corn, wheat or soy.",
+          "condition": "Recipe and ingredient text on ollie.com/meal-plans read on 2026-09-26.",
+          "source_url": "https://www.ollie.com/meal-plans",
+          "checked": "2026-09-26"
+        },
+        {
+          "fact": "Ollie's homepage prints the stats 1M+ Dogs Served, 135K+ Health Check-Ins and 20K+ 5-Star Reviews.",
+          "condition": "Homepage stats block as rendered on 2026-09-26 at 19:21 (UTC+8); these are Ollie's own figures, not independently audited there.",
+          "source_url": "https://www.ollie.com/",
+          "checked": "2026-09-26"
+        },
+        {
+          "fact": "Ollie's first-box banner showed two different figures on 2026-09-26: '50% off your first box + free hat and dog bandana' in the Meal Plans page HTML at 19:06 (UTC+8), and '70% off your first box + free hat and dog bandana' with the button 'Get 70% Off Your First Box' on the homepage at 19:21.",
+          "condition": "Both readings are ollie.com's own text on the check date, taken 15 minutes apart - the discount is dynamic, so confirm it at checkout.",
+          "source_url": "https://www.ollie.com/",
+          "checked": "2026-09-26"
+        },
+        {
+          "fact": "Ollie's subscription ships out automatically according to your preferred delivery cadence, and you can reschedule an order, adjust your meal plan or edit your dog's info from the account page.",
+          "condition": "Answers to 'How does the subscription work?' and 'Can I order Ollie without subscribing?' on ollie.com/faqs, read on 2026-09-26.",
+          "source_url": "https://www.ollie.com/faqs/",
+          "checked": "2026-09-26"
+        },
+        {
+          "fact": "Ollie does not print a per-day price next to its per-meal prices, and does not print how many meals a day its per-day average assumes.",
+          "condition": "Checked page by page on 2026-09-26: the Meal Plans page carries $1.57 and $1.00 a meal with no daily figure, and the FAQ carries daily figures with no meal count - so no conversion appears anywhere on the official site.",
+          "source_url": "https://www.ollie.com/meal-plans",
+          "checked": "2026-09-26"
+        }
+      ],
+      "faqs": [
+        {
+          "q": "How much does Ollie cost per day?",
+          "a": "Ollie's own FAQ answer: its food starts at less than four dollars per day for small dogs who are exclusively fed Ollie, and averages $8 per day. It says prices will vary based on the size of your dog and the size of their portions, so treat these as Ollie's published range, not your quote.",
+          "source_url": "https://www.ollie.com/faqs/",
+          "checked": "2026-09-26"
+        },
+        {
+          "q": "Will I pay $8 a day?",
+          "a": "Not necessarily - $8 is the average Ollie prints, not a fixed price. Ollie states that prices vary with your dog's size and portion size, and the exact figure comes from its plan builder. The official pages do not publish a price list by dog weight.",
+          "source_url": "https://www.ollie.com/faqs/",
+          "checked": "2026-09-26"
+        },
+        {
+          "q": "How much does Ollie cost per meal?",
+          "a": "On the Meal Plans page: Full Fresh Meals start at $1.57 a meal and the Half Fresh Plan starts at $1.00 a meal. Both are labelled 'Starting at', and no per-day figure is printed next to them.",
+          "source_url": "https://www.ollie.com/meal-plans",
+          "checked": "2026-09-26"
+        },
+        {
+          "q": "What is Ollie's cheapest plan?",
+          "a": "The Half Fresh Plan is the one Ollie labels 'budget friendly', starting at $1.00 a meal - it is described as a freshly made half-serving added to your dog's mealtime. What the full plan costs for your dog is not published; the plan builder prices it.",
+          "source_url": "https://www.ollie.com/meal-plans",
+          "checked": "2026-09-26"
+        },
+        {
+          "q": "How much is Ollie for a small dog?",
+          "a": "The only small-dog figure Ollie publishes is in its FAQ: food starts at less than four dollars per day for small dogs who are exclusively fed Ollie. No price for a specific small breed is published on the official pages.",
+          "source_url": "https://www.ollie.com/faqs/",
+          "checked": "2026-09-26"
+        },
+        {
+          "q": "When does Ollie charge me?",
+          "a": "Three days before your package ships, tied to your box delivery frequency. Once the order charges, Ollie says it cannot be edited or altered - to move the date you use Deliveries in your account, or contact its Canine Care team.",
+          "source_url": "https://www.ollie.com/faqs/",
+          "checked": "2026-09-26"
+        },
+        {
+          "q": "Is delivery free?",
+          "a": "Ollie advertises it as free: the Meal Plans page title reads 'Dog Meal Plans | Free Delivery | Ollie'. No minimum order is printed on the official pages we read on 2026-09-26.",
+          "source_url": "https://www.ollie.com/meal-plans",
+          "checked": "2026-09-26"
+        },
+        {
+          "q": "Can I cancel Ollie?",
+          "a": "Yes, but from the website account rather than the app: sign in, open My Plan > My Info > Subscriptions, click Cancel Subscription for each dog, then confirm after a short survey. Cancelling turns off auto-renewal and does not affect orders already in progress; Ollie also prints a cancellation line, +1 650-405-3420, 9am-8pm ET Monday-Friday and 10am-7pm ET Saturday.",
+          "source_url": "https://www.ollie.com/faqs/",
+          "checked": "2026-09-26"
+        },
+        {
+          "q": "Is there a discount on the first box?",
+          "a": "Ollie advertised one on 2026-09-26, but the figure moved during our check: the Meal Plans page HTML showed 50% off your first box at 19:06 (UTC+8) and the homepage showed 70% off plus a free hat and dog bandana at 19:21. Ollie's pages do not print the offer's full terms, so confirm the banner and terms at checkout.",
+          "source_url": "https://www.ollie.com/",
+          "checked": "2026-09-26"
+        },
+        {
+          "q": "What is in the first box?",
+          "a": "Ollie says the starter box contains the first two weeks of food plus a welcome kit - a handy scoop and a puptainer to store the food.",
+          "source_url": "https://www.ollie.com/faqs/",
+          "checked": "2026-09-26"
+        }
+      ],
+      "disclaimer": "Built only from Ollie's own pages (ollie.com/meal-plans, ollie.com/faqs and ollie.com) read on 2026-09-26 (UTC+8), including the FAQ answers that only load when you click each question. Ollie publishes starting prices, averages and a first-box banner rather than a quote for your dog, and the banner figure differed between two readings the same evening - so re-read the official page before ordering, and treat any per-day multiplication you do yourself as your own arithmetic, not Ollie's.",
+      "blocks": [
+        {
+          "type": "section",
+          "h2": "How this page was checked",
+          "html": "<p>Ollie's cost-per-day answer is not on its pricing page - it sits behind a click on the FAQ. On 2026-09-26 (UTC+8) we fetched the Meal Plans page in raw HTML at 19:06, then opened ollie.com/faqs in a real browser at 19:10 and clicked through the answers one by one (How much does Ollie cost, When am I charged for each order, Can I order Ollie without subscribing, What's included in my starter box, How do I cancel my subscription, Can I freeze the food, Where do you ship), and re-read the homepage at 19:21.</p><p><strong>The finding is that Ollie publishes two different units and never converts them.</strong> Per-meal prices live on the Meal Plans page; per-day figures live in the FAQ. Nowhere does Ollie print how many meals its $8-a-day average assumes, so this page does not do that multiplication either.</p><p><strong>Deliberately left out:</strong> any estimated monthly bill, any breed-by-breed price table (Ollie does not publish one), and any figure from a third-party review or coupon site.</p><p><img src=\"/assets/ollie-cost-per-day.svg\" alt=\"Chart of Ollie's own cost-per-day figures on 2026-09-26: under 4 dollars a day for small dogs fed Ollie exclusively and 8 dollars a day on average from its FAQ, with the per-meal starting prices of 1.57 dollars and 1.00 dollar from the Meal Plans page shown as a different unit\" width=\"100%\"></p>"
+        },
+        {
+          "type": "section",
+          "h2": "What Ollie actually tells you about the bill",
+          "html": "<p>Strip the marketing out and Ollie's public pages disclose five money facts: <strong>two per-meal starting prices, two per-day statements, and a billing rule.</strong> The starter box is your first two weeks of food, your card is charged three days before the box ships, and after that charge the order is locked. Delivery is advertised free in the page title, and the plan is a subscription you cancel on the website rather than in the app.</p><p>One thing worth flagging because it cost us two fetches: <strong>the first-box banner is not stable.</strong> On 2026-09-26 the same site served '50% off your first box' at 19:06 and '70% off your first box' at 19:21. If you are pricing Ollie, the discount you see when you start the plan builder is the only one that counts.</p>"
+        },
+        {
+          "type": "compare",
+          "h2": "What each Ollie page publishes - price, billing and terms side by side"
+        },
+        {
+          "type": "facts",
+          "h2": "Every figure with its official source"
+        },
+        {
+          "type": "faqs",
+          "h2": "Ollie cost per day - FAQ"
+        },
+        {
+          "type": "cards",
+          "h2": "Every brand on this site, page by page"
+        }
+      ]
+    }
+  ]
 }
