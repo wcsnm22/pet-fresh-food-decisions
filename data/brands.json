@@ -1,0 +1,403 @@
+{
+  "site": {
+    "name": "Pet Fresh Food Decisions",
+    "tagline": "Fresh dog food delivery and subscriptions - Ollie, The Farmer's Dog and JustFoodForDogs prices, plans, shipping and promos, with every fact read from the brand's own official page and shown with its source URL and check date.",
+    "base_url": "https://pet-fresh-food-decisions.pages.dev",
+    "locale": "en-US",
+    "checked": "2026-09-26",
+    "repo": "https://github.com/wcsnm22/pet-fresh-food-decisions"
+  },
+  "brands": [
+    {
+      "id": "ollie",
+      "name": "Ollie",
+      "slug": "ollie-fresh-dog-food",
+      "official_site": "https://www.ollie.com/",
+      "quote_url": "https://www.ollie.com/onboarding/",
+      "short_answer": "Ollie sells human-grade fresh dog food as a subscription. Its own Meal Plans page publishes starting prices - Full Fresh Meals from $1.57 a meal and the Half Fresh Plan from $1.00 a meal - and ollie.com currently advertises 50% off your first box plus a free hat and dog bandana.",
+      "price_line": "From $1.57 a meal",
+      "price_condition": "Full Fresh Meals are listed as 'Starting at $1.57 a meal' and the budget Half Fresh Plan as 'Starting at $1.00 a meal' on Ollie's Meal Plans page. These are starting prices: Ollie prices your individual plan inside its plan builder, so the per-meal figure for your dog comes from the quote, not from the public page. First-order promo as published on ollie.com on the check date: 50% off your first box + free hat and dog bandana.",
+      "price_source": "https://www.ollie.com/meal-plans",
+      "facts": [
+        {
+          "fact": "Ollie's Full Fresh Meals plan is published as 'Starting at $1.57 a meal'.",
+          "condition": "Printed under Full Fresh Meals (Premium) on the Meal Plans page; Ollie describes the plan as made from 100% human-grade meat, fruits, veggies, and grains.",
+          "source_url": "https://www.ollie.com/meal-plans",
+          "checked": "2026-09-26"
+        },
+        {
+          "fact": "Ollie's Half Fresh Plan is published as 'Starting at $1.00 a meal'.",
+          "condition": "Printed under Half Fresh Plan (budget friendly) on the same Meal Plans page; Ollie describes it as a freshly made half-serving added to the dog's mealtime.",
+          "source_url": "https://www.ollie.com/meal-plans",
+          "checked": "2026-09-26"
+        },
+        {
+          "fact": "Ollie currently advertises '50% off your first box + free hat and dog bandana'.",
+          "condition": "Promo text in the site banner on ollie.com on the check date; like all promotions it can change or end without notice.",
+          "source_url": "https://www.ollie.com/",
+          "checked": "2026-09-26"
+        },
+        {
+          "fact": "Ollie lists five recipes: Beef, Chicken, Lamb, Turkey and Pork.",
+          "condition": "Recipe list on the Meal Plans page, where Beef is marked POPULAR; Ollie says you can choose one recipe or mix and match.",
+          "source_url": "https://www.ollie.com/meal-plans",
+          "checked": "2026-09-26"
+        },
+        {
+          "fact": "Ollie says its meals are made from 100% human-grade meat, fruits, veggies, and grains, with meat always the first ingredient, no added hormones or fillers, and no common allergens like corn, wheat, or soy.",
+          "condition": "Ingredient claims printed in the 'What mealtime is made of' section of the Meal Plans page.",
+          "source_url": "https://www.ollie.com/meal-plans",
+          "checked": "2026-09-26"
+        },
+        {
+          "fact": "Ollie's homepage publishes the stats 1M+ Dogs Served, 135K+ Health Check-Ins and 20K+ 5-Star Reviews.",
+          "condition": "Homepage stats block as displayed on the check date; these are Ollie's own figures, not independently audited on that page.",
+          "source_url": "https://www.ollie.com/",
+          "checked": "2026-09-26"
+        },
+        {
+          "fact": "Ollie lists 'Free Shipping' as one of the homepage banner values, next to 'Vet+Chef Developed' and 'Human Grade'; the Meal Plans page title reads 'Dog Meal Plans | Free Delivery | Ollie'.",
+          "condition": "Both are Ollie's own wording on the check date; the pages do not print a minimum order for free delivery.",
+          "source_url": "https://www.ollie.com/meal-plans",
+          "checked": "2026-09-26"
+        },
+        {
+          "fact": "Ollie's support channels are email caninecare@ollie.com and phone/text 844-88-OLLIE (65543), plus live chat with canine support.",
+          "condition": "Listed in the 'Get more help' block of Ollie's FAQ page.",
+          "source_url": "https://www.ollie.com/faqs",
+          "checked": "2026-09-26"
+        }
+      ],
+      "faqs": [
+        {
+          "q": "How much does Ollie cost?",
+          "a": "Ollie publishes starting prices only: Full Fresh Meals from $1.57 a meal and the Half Fresh Plan from $1.00 a meal. The price for an individual dog is produced by Ollie's plan builder, so treat the published figures as the floor, not the final bill.",
+          "source_url": "https://www.ollie.com/meal-plans",
+          "checked": "2026-09-26"
+        },
+        {
+          "q": "What recipes does Ollie offer?",
+          "a": "Five: Beef, Chicken, Lamb, Turkey and Pork. Ollie says you can choose a single recipe or mix and match them, and that meat is always the first ingredient with no added hormones or fillers.",
+          "source_url": "https://www.ollie.com/meal-plans",
+          "checked": "2026-09-26"
+        },
+        {
+          "q": "Is Ollie's food human-grade?",
+          "a": "Ollie labels its Full Fresh Meals as made from 100% human-grade meat, fruits, veggies, and grains, and its homepage banner carries a 'Human Grade' value alongside 'Vet+Chef Developed'.",
+          "source_url": "https://www.ollie.com/meal-plans",
+          "checked": "2026-09-26"
+        },
+        {
+          "q": "Does Ollie have a first-order discount?",
+          "a": "Yes, as published on the check date: the ollie.com banner offers 50% off your first box plus a free hat and dog bandana. We repeat it only because the brand's own site prints it - confirm the current terms on Ollie's site before ordering.",
+          "source_url": "https://www.ollie.com/",
+          "checked": "2026-09-26"
+        },
+        {
+          "q": "How do I get a price for my own dog?",
+          "a": "Use Ollie's plan builder (the Get Started flow on ollie.com), which asks about your dog and then shows the plan. The public pages only show the starting price per meal.",
+          "source_url": "https://www.ollie.com/meal-plans",
+          "checked": "2026-09-26"
+        },
+        {
+          "q": "How do I contact Ollie support?",
+          "a": "Email caninecare@ollie.com, call or text 844-88-OLLIE (65543), or use live chat with canine support - all three are listed on Ollie's FAQ page.",
+          "source_url": "https://www.ollie.com/faqs",
+          "checked": "2026-09-26"
+        }
+      ]
+    },
+    {
+      "id": "thefarmersdog",
+      "name": "The Farmer's Dog",
+      "slug": "the-farmers-dog",
+      "official_site": "https://www.thefarmersdog.com/",
+      "quote_url": "https://www.thefarmersdog.com/",
+      "short_answer": "The Farmer's Dog delivers vet-developed fresh food on a subscription. Its FAQ publishes the number everyone asks for: plans start at about $2/day, delivery options mostly range from 1 week to 2 months of food, and shipping is free. The site currently advertises 50% off your first purchase.",
+      "price_line": "From about $2/day",
+      "price_condition": "The Farmer's Dog FAQ states plans start at about $2/day, that the exact price depends on your dog's age, weight, activity and recipe choice, that delivery options mostly range from 1 week to 2 months of food, and that shipping is included. Current first-order promo shown on the site: 50% off your first purchase.",
+      "price_source": "https://www.thefarmersdog.com/faq",
+      "facts": [
+        {
+          "fact": "The Farmer's Dog FAQ states plans start at about $2/day.",
+          "condition": "Verbatim from the FAQ answer to 'What does The Farmer's Dog cost?', which adds that the exact plan and price depend on age, weight, activity, recipe choice and more.",
+          "source_url": "https://www.thefarmersdog.com/faq",
+          "checked": "2026-09-26"
+        },
+        {
+          "fact": "The Farmer's Dog says delivery options mostly range from 1 week to 2 months of food and include free shipping.",
+          "condition": "Same FAQ answer; the homepage separately advertises 'Free shipping with any plan'.",
+          "source_url": "https://www.thefarmersdog.com/faq",
+          "checked": "2026-09-26"
+        },
+        {
+          "fact": "The Farmer's Dog ships to the 48 contiguous states.",
+          "condition": "Stated in the FAQ answer on how shipments work; Fresh food arrives in refrigerated, eco-friendly boxes and Instant Fresh can be stored in the pantry.",
+          "source_url": "https://www.thefarmersdog.com/faq",
+          "checked": "2026-09-26"
+        },
+        {
+          "fact": "You can pause, cancel or reactivate your The Farmer's Dog subscription anytime.",
+          "condition": "FAQ answer to 'Can I cancel or reactivate my subscription anytime?', which says the controls live in your Customer Account. The homepage also lists 'Cancel anytime'.",
+          "source_url": "https://www.thefarmersdog.com/faq",
+          "checked": "2026-09-26"
+        },
+        {
+          "fact": "The Farmer's Dog offers two serving styles - Fresh (gently cooked, frozen) and Instant Fresh (shelf-stable, gently dried) - with recipes featuring beef, chicken, turkey and pork.",
+          "condition": "FAQ answers on recipes and on what 'fresh' means; the brand says recipes are complete and balanced to AAFCO standards with no extra supplementation needed.",
+          "source_url": "https://www.thefarmersdog.com/faq",
+          "checked": "2026-09-26"
+        },
+        {
+          "fact": "The Farmer's Dog offers both grain-free and grain-inclusive recipes, and lists pork and turkey as less-common proteins it sells.",
+          "condition": "FAQ answers 'Do your recipes have grains?' and 'Do you have novel proteins?'.",
+          "source_url": "https://www.thefarmersdog.com/faq",
+          "checked": "2026-09-26"
+        },
+        {
+          "fact": "Only feed Fresh packs that arrive frozen or very cold - the food should still be below 40°F; partial defrosting is okay.",
+          "condition": "FAQ answer on how to tell whether Fresh food is safe when it arrives.",
+          "source_url": "https://www.thefarmersdog.com/faq",
+          "checked": "2026-09-26"
+        },
+        {
+          "fact": "If your dog doesn't like the food, The Farmer's Dog says it can send additional recipes to try, or you can opt for a refund if you donate the food to a shelter.",
+          "condition": "FAQ answer to 'What if my dog doesn't like the food?' - a shelter-donation condition is attached to the refund option.",
+          "source_url": "https://www.thefarmersdog.com/faq",
+          "checked": "2026-09-26"
+        },
+        {
+          "fact": "The homepage currently advertises 'You've been gifted 50% off your first purchase!' and lists free & flexible deliveries, nationwide shipping, eco-friendly packaging and 24-hour customer service as plan features.",
+          "condition": "Banner and plan-features block as displayed on the check date; promo terms can change.",
+          "source_url": "https://www.thefarmersdog.com/",
+          "checked": "2026-09-26"
+        }
+      ],
+      "faqs": [
+        {
+          "q": "How much does The Farmer's Dog cost?",
+          "a": "Its own FAQ answers this: plans start at about $2/day, and the exact price depends on your dog's age, weight, activity and recipe choice. Delivery options mostly range from 1 week to 2 months of food and include free shipping.",
+          "source_url": "https://www.thefarmersdog.com/faq",
+          "checked": "2026-09-26"
+        },
+        {
+          "q": "Is shipping really free?",
+          "a": "Yes. The FAQ says deliveries include free shipping, and the homepage repeats 'Free shipping with any plan'.",
+          "source_url": "https://www.thefarmersdog.com/faq",
+          "checked": "2026-09-26"
+        },
+        {
+          "q": "Can I cancel my subscription?",
+          "a": "Yes - the FAQ says you can pause, cancel or reactivate anytime from your Customer Account, and the homepage lists 'Cancel anytime' as a plan feature.",
+          "source_url": "https://www.thefarmersdog.com/faq",
+          "checked": "2026-09-26"
+        },
+        {
+          "q": "Where does The Farmer's Dog ship?",
+          "a": "To the 48 contiguous states. Fresh food arrives in refrigerated boxes, and Instant Fresh is shelf-stable for pantry storage.",
+          "source_url": "https://www.thefarmersdog.com/faq",
+          "checked": "2026-09-26"
+        },
+        {
+          "q": "What recipes are available?",
+          "a": "Human-grade recipes featuring beef, chicken, turkey and pork, in Fresh and Instant Fresh serving styles, with both grain-free and grain-inclusive options. The brand says they are complete and balanced to AAFCO standards.",
+          "source_url": "https://www.thefarmersdog.com/faq",
+          "checked": "2026-09-26"
+        },
+        {
+          "q": "What happens if my dog doesn't like it?",
+          "a": "The Farmer's Dog says it can send additional recipes to try, or you can opt for a refund if you donate the food to a shelter.",
+          "source_url": "https://www.thefarmersdog.com/faq",
+          "checked": "2026-09-26"
+        },
+        {
+          "q": "Is there a first-order discount?",
+          "a": "The site showed 'You've been gifted 50% off your first purchase!' on the check date. We report it only because the brand's own homepage prints it; check the live page for current terms.",
+          "source_url": "https://www.thefarmersdog.com/",
+          "checked": "2026-09-26"
+        }
+      ]
+    },
+    {
+      "id": "justfoodfordogs",
+      "name": "JustFoodForDogs",
+      "slug": "justfoodfordogs-fresh-food",
+      "official_site": "https://www.justfoodfordogs.com/",
+      "quote_url": "https://www.justfoodfordogs.com/collections/all",
+      "short_answer": "JustFoodForDogs publishes shelf prices instead of a quiz price: Chicken & Rice 14-pack $153.99, Turkey & Whole Wheat Macaroni 14-pack $167.99 and Beef & Russet Potato 14-pack $181.99 (18 oz packs). Its site currently advertises 50% off your first subscription order plus free shipping, and shipping itself is free on orders over $49.",
+      "price_line": "From $153.99 / 14-pack",
+      "price_condition": "Published product prices on justfoodfordogs.com on the check date: Chicken & Rice 18 oz (14 Pack) $153.99, Turkey & Whole Wheat Macaroni 18 oz (14 Pack) $167.99, Beef & Russet Potato 18 oz (14 Pack) $181.99; 21-pack sizes are $230.99, $251.99 and $272.99 respectively. Free shipping on orders over $49 (after discounts, before tax); otherwise a flat $19.99 fee. Current promo banner: 50% off first subscription order + free shipping.",
+      "price_source": "https://www.justfoodfordogs.com/collections/all",
+      "facts": [
+        {
+          "fact": "JustFoodForDogs lists Beef & Russet Potato 18 oz (14 Pack) at $181.99 and the 21 Pack at $272.99.",
+          "condition": "Variant prices read from the product page's own product data on the check date; other pack sizes are listed on the same page.",
+          "source_url": "https://www.justfoodfordogs.com/products/beef-russet-potato",
+          "checked": "2026-09-26"
+        },
+        {
+          "fact": "JustFoodForDogs lists Chicken & Rice 18 oz (14 Pack) at $153.99 and the 21 Pack at $230.99.",
+          "condition": "Variant prices read from the product page's own product data on the check date; the same page marks the 14-pack as '14 18 oz packs - 15.6 lbs'.",
+          "source_url": "https://www.justfoodfordogs.com/products/chicken-rice",
+          "checked": "2026-09-26"
+        },
+        {
+          "fact": "JustFoodForDogs lists Turkey & Whole Wheat Macaroni 18 oz (14 Pack) at $167.99 and the 21 Pack at $251.99.",
+          "condition": "Variant prices read from the product page's own product data on the check date.",
+          "source_url": "https://www.justfoodfordogs.com/products/turkey-whole-wheat-macaroni",
+          "checked": "2026-09-26"
+        },
+        {
+          "fact": "JustFoodForDogs offers free shipping on orders over $49, calculated after discounts and before tax, and first-time subscription orders are also eligible for free shipping.",
+          "condition": "FAQ answer to 'How much does shipping cost?'; orders that miss the threshold pay a flat $19.99, and it cannot deliver to PO Boxes, APOs or FPOs.",
+          "source_url": "https://www.justfoodfordogs.com/pages/faq",
+          "checked": "2026-09-26"
+        },
+        {
+          "fact": "Full boxes come in four sizes: Small 14 x 18-oz packages, Medium 21 x 18-oz, Large 28 x 18-oz, and Extra Large 8 x 72-oz.",
+          "condition": "FAQ answer to 'How much food comes in a full box?' - this is how the pack counts on the product pages map to box sizes.",
+          "source_url": "https://www.justfoodfordogs.com/pages/faq",
+          "checked": "2026-09-26"
+        },
+        {
+          "fact": "JustFoodForDogs currently advertises '50% Off First Subscription Order + Free Shipping'.",
+          "condition": "Promo banner shown site-wide on the check date, with a Terms link next to it; promotions can change without notice.",
+          "source_url": "https://www.justfoodfordogs.com/",
+          "checked": "2026-09-26"
+        },
+        {
+          "fact": "JustFoodForDogs says its food is crafted by hand in open-to-the-public kitchens customers can visit, plus its own kitchen in Irvine, California.",
+          "condition": "FAQ answer to 'Where is JustFoodForDogs made?'; the homepage separately states 12 open kitchens you can visit.",
+          "source_url": "https://www.justfoodfordogs.com/pages/faq",
+          "checked": "2026-09-26"
+        },
+        {
+          "fact": "Frozen food keeps up to 18 months (547 days) in the freezer, and thawed non-fish meals stay fresh sealed for up to 7 days in the refrigerator (5 days once opened).",
+          "condition": "Storage table in the FAQ; fish-based recipes are shorter (5 days sealed, 3 days once opened), and thawed food should never be refrozen.",
+          "source_url": "https://www.justfoodfordogs.com/pages/faq",
+          "checked": "2026-09-26"
+        },
+        {
+          "fact": "The homepage states peer-reviewed research found JustFoodForDogs human-grade fresh food 'up to 40% more digestible vs. kibble' and 'up to 66% less poop than premium kibble'.",
+          "condition": "Homepage 'Proof over promise' block with asterisks and a Read Study link; the brand links the underlying study from its evidence-based research page.",
+          "source_url": "https://www.justfoodfordogs.com/",
+          "checked": "2026-09-26"
+        }
+      ],
+      "faqs": [
+        {
+          "q": "How much does JustFoodForDogs cost?",
+          "a": "It publishes shelf prices rather than a quiz price: Chicken & Rice 14-pack $153.99, Turkey & Whole Wheat Macaroni 14-pack $167.99 and Beef & Russet Potato 14-pack $181.99, each pack 18 oz. The 21-pack sizes are $230.99, $251.99 and $272.99.",
+          "source_url": "https://www.justfoodfordogs.com/collections/all",
+          "checked": "2026-09-26"
+        },
+        {
+          "q": "How much is shipping?",
+          "a": "Free on orders over $49 (figured after discounts, before tax), and first-time subscription orders are eligible for free shipping too. Below that threshold the flat fee is $19.99, and there is no delivery to PO Boxes, APOs or FPOs.",
+          "source_url": "https://www.justfoodfordogs.com/pages/faq",
+          "checked": "2026-09-26"
+        },
+        {
+          "q": "Is there a first-order discount?",
+          "a": "The site banner advertised 50% off your first subscription order plus free shipping on the check date. We repeat it only because justfoodfordogs.com prints it - check the Terms link next to the banner for current conditions.",
+          "source_url": "https://www.justfoodfordogs.com/",
+          "checked": "2026-09-26"
+        },
+        {
+          "q": "How much food is in a box?",
+          "a": "Four box sizes: Small 14 x 18-oz packages, Medium 21 x 18-oz, Large 28 x 18-oz, and Extra Large 8 x 72-oz.",
+          "source_url": "https://www.justfoodfordogs.com/pages/faq",
+          "checked": "2026-09-26"
+        },
+        {
+          "q": "How long does the food keep?",
+          "a": "Up to 18 months (547 days) in the freezer for frozen packs; thawed non-fish meals keep sealed in the fridge for up to 7 days and 5 days once opened. Thawed food should not be refrozen.",
+          "source_url": "https://www.justfoodfordogs.com/pages/faq",
+          "checked": "2026-09-26"
+        },
+        {
+          "q": "Where is the food made?",
+          "a": "Hand-crafted in open-to-the-public kitchens you can visit, plus the company's own kitchen in Irvine, California; the homepage lists 12 open kitchens.",
+          "source_url": "https://www.justfoodfordogs.com/pages/faq",
+          "checked": "2026-09-26"
+        }
+      ]
+    }
+  ],
+  "home_facts": [
+    {
+      "fact": "Ollie publishes starting prices of $1.57 a meal for Full Fresh Meals and $1.00 a meal for the Half Fresh Plan.",
+      "condition": "Both figures are printed on Ollie's Meal Plans page; individual plan pricing is produced in Ollie's plan builder.",
+      "source_url": "https://www.ollie.com/meal-plans",
+      "checked": "2026-09-26"
+    },
+    {
+      "fact": "The Farmer's Dog's FAQ states plans start at about $2/day, delivery options mostly range from 1 week to 2 months of food, and shipping is included.",
+      "condition": "Verbatim from the FAQ answer to 'What does The Farmer's Dog cost?', which says the exact price depends on age, weight, activity and recipe choice.",
+      "source_url": "https://www.thefarmersdog.com/faq",
+      "checked": "2026-09-26"
+    },
+    {
+      "fact": "JustFoodForDogs publishes shelf prices: Chicken & Rice 14-pack $153.99, Turkey & Whole Wheat Macaroni 14-pack $167.99, Beef & Russet Potato 14-pack $181.99 (18 oz packs).",
+      "condition": "Variant prices on the three product pages on the check date; 21-pack sizes cost $230.99, $251.99 and $272.99.",
+      "source_url": "https://www.justfoodfordogs.com/collections/all",
+      "checked": "2026-09-26"
+    },
+    {
+      "fact": "JustFoodForDogs ships free on orders over $49 (after discounts, before tax), otherwise a flat $19.99 - and first-time subscription orders are eligible for free shipping.",
+      "condition": "FAQ answer to 'How much does shipping cost?'; no delivery to PO Boxes, APOs or FPOs.",
+      "source_url": "https://www.justfoodfordogs.com/pages/faq",
+      "checked": "2026-09-26"
+    },
+    {
+      "fact": "The Farmer's Dog says you can pause, cancel or reactivate your subscription anytime from your Customer Account.",
+      "condition": "FAQ answer on cancellation; the homepage also lists 'Cancel anytime'.",
+      "source_url": "https://www.thefarmersdog.com/faq",
+      "checked": "2026-09-26"
+    },
+    {
+      "fact": "All three brands currently advertise a first-order offer: Ollie 50% off your first box + free hat and dog bandana, The Farmer's Dog 50% off your first purchase, JustFoodForDogs 50% off your first subscription order + free shipping.",
+      "condition": "Banner text read on each brand's own homepage on the check date; promotions change without notice, so confirm on the brand's site.",
+      "source_url": "https://www.ollie.com/",
+      "checked": "2026-09-26"
+    }
+  ],
+  "home_faqs": [
+    {
+      "q": "What does fresh dog food delivery cost per day?",
+      "a": "Only two of the three brands publish a per-day or per-meal figure: Ollie lists meals from $1.57 (Full Fresh) and $1.00 (Half Fresh), and The Farmer's Dog says plans start at about $2/day. JustFoodForDogs does not quote a per-day price - it publishes box prices, from $153.99 for a 14-pack of Chicken & Rice.",
+      "source_url": "https://www.ollie.com/meal-plans",
+      "checked": "2026-09-26"
+    },
+    {
+      "q": "Which of these brands is a subscription?",
+      "a": "All three sell on a subscription basis: The Farmer's Dog says you can pause, cancel or reactivate anytime, JustFoodForDogs' promo is tied to a first subscription order, and Ollie's FAQ walks customers through managing and cancelling a subscription.",
+      "source_url": "https://www.thefarmersdog.com/faq",
+      "checked": "2026-09-26"
+    },
+    {
+      "q": "Is shipping free?",
+      "a": "The Farmer's Dog includes free shipping with any plan; JustFoodForDogs ships free over $49 (or on a first subscription order) and charges $19.99 below that; Ollie lists Free Shipping as a homepage value without printing a minimum.",
+      "source_url": "https://www.justfoodfordogs.com/pages/faq",
+      "checked": "2026-09-26"
+    },
+    {
+      "q": "Do any of them offer a first-order discount?",
+      "a": "All three advertised one on the check date: Ollie 50% off the first box plus a free hat and bandana, The Farmer's Dog 50% off the first purchase, JustFoodForDogs 50% off the first subscription order plus free shipping. We only repeat offers the brand's own site publishes.",
+      "source_url": "https://www.thefarmersdog.com/",
+      "checked": "2026-09-26"
+    },
+    {
+      "q": "How big are the packs and how long does the food keep?",
+      "a": "JustFoodForDogs sells 18-oz packs in boxes of 14, 21 or 28 (plus 8 x 72-oz XL) and says frozen food keeps up to 18 months. The Farmer's Dog delivers 1 week to 2 months of food at a time and says Fresh packs should stay below 40°F; Instant Fresh is shelf-stable.",
+      "source_url": "https://www.justfoodfordogs.com/pages/faq",
+      "checked": "2026-09-26"
+    },
+    {
+      "q": "Where do these brands ship?",
+      "a": "The Farmer's Dog ships to the 48 contiguous states. JustFoodForDogs cannot deliver to PO Boxes, APOs or FPOs. Ollie's public pages state free shipping but the check date did not show a destination list, so confirm at checkout.",
+      "source_url": "https://www.thefarmersdog.com/faq",
+      "checked": "2026-09-26"
+    }
+  ]
+}

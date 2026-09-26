@@ -1,0 +1,45 @@
+<!DOCTYPE html>
+<html lang="{{lang}}">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <meta name="google" content="notranslate">
+  <title>{{title}}</title>
+  {{head}}
+</head>
+<body>
+  <header class="site"><div class="wrap">
+    <div class="brand">{{brand}}</div>
+    <nav class="crumbs">{{nav}}</nav>
+  </div></header>
+  <main class="wrap">
+    <section class="hero">
+      <h1>Fresh dog food delivery, answered on the first screen</h1>
+      <p class="lede">{{tagline}}</p>
+      <div class="answer">
+        <p><strong>Ollie:</strong> Full Fresh Meals start at $1.57 a meal and the budget Half Fresh Plan starts at $1.00 a meal; five recipes (Beef, Chicken, Lamb, Turkey, Pork); the homepage currently offers 50% off your first box plus a free hat and dog bandana.</p>
+        <p><strong>The Farmer's Dog:</strong> its own FAQ says plans start at about $2/day, delivery options mostly range from 1 week to 2 months of food, shipping is free, and you can pause, cancel or reactivate anytime; it ships to the 48 contiguous states.</p>
+        <p><strong>JustFoodForDogs:</strong> published shelf prices instead of a quiz - Chicken &amp; Rice 14-pack $153.99, Turkey &amp; Whole Wheat Macaroni 14-pack $167.99, Beef &amp; Russet Potato 14-pack $181.99 (18 oz packs), free shipping over $49.</p>
+        <p class="muted">Every line above is sourced in the tables below and on each brand page, with the official URL and check date.</p>
+      </div>
+    </section>
+
+    <h2>The three brands at a glance</h2>
+    <div class="grid">{{cards}}</div>
+
+    <h2>Guides</h2>
+    <div class="grid">{{article_cards}}</div>
+
+    <h2>Facts with sources</h2>
+    <table>
+      <thead><tr><th>Fact</th><th>Condition to get it</th><th>Official source page</th><th>Checked</th></tr></thead>
+      <tbody>{{fact_table_rows}}</tbody>
+    </table>
+
+    <h2>FAQ</h2>
+    {{faqs}}
+
+    <footer class="site">{{footer}}</footer>
+  </main>
+</body>
+</html>
