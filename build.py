@@ -30,6 +30,10 @@ OFFICIAL_HOSTS = {
     "thefarmersdog.com", "www.thefarmersdog.com",
     "justfoodfordogs.com", "www.justfoodfordogs.com",
     "blog.justfoodfordogs.com",
+    # 支柱2 raw 配送（排期 #18）三家品牌自有官网
+    "wefeedraw.com", "www.wefeedraw.com",
+    "darwinspet.com", "www.darwinspet.com",
+    "meetmaev.com", "www.meetmaev.com",
 }
 
 # 文章内 compare/facts/faqs/cards 块的默认小标题（可用块内 "h2" 覆盖，null = 不出标题）

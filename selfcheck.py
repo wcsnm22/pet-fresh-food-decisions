@@ -23,9 +23,12 @@ if cn:
 official = {"ollie.com", "www.ollie.com",
             "thefarmersdog.com", "www.thefarmersdog.com",
             "justfoodfordogs.com", "www.justfoodfordogs.com",
-            "blog.justfoodfordogs.com"}
+            "blog.justfoodfordogs.com",
+            "wefeedraw.com", "www.wefeedraw.com",
+            "darwinspet.com", "www.darwinspet.com",
+            "meetmaev.com", "www.meetmaev.com"}
 # 允许品牌官方站的子域（如 blog.justfoodfordogs.com），但域名主体必须在上面的白名单里
-OFFICIAL_LINK = r'href="https://(?:[a-z0-9-]+\.)*(?:www\.)?(?:ollie|thefarmersdog|justfoodfordogs)[^"]*"'
+OFFICIAL_LINK = r'href="https://(?:[a-z0-9-]+\.)*(?:www\.)?(?:ollie|thefarmersdog|justfoodfordogs|wefeedraw|darwinspet|meetmaev)[^"]*"'
 n = bad = offsite = 0
 for b in data["brands"]:
     for f in b["facts"] + b["faqs"]:
